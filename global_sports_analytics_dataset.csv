@@ -1,0 +1,701 @@
+Match_ID,Date,Sport,Country,Team,Player,Opponent,Venue,Matches_Played,Goals_or_Runs,Assists_or_Wickets,Win_Percentage,Fan_Attendance,Revenue_USD,Sponsorship_USD,Social_Media_Engagement,Ranking,MVP_Awards,Injury_Status,Season,Ticket_Price_USD
+MATCH1001,29-01-2025,Football,Australia,Real Madrid,Rohit Sharma,Mueller PLC,Arena B,9,188,6,74.14,76482,443824.77,846734.03,509914,12,6,Fit,2025,304.99
+MATCH1002,03-01-2025,Olympics,Spain,India Olympic Team,Novak Djokovic,"Morales, Donaldson and Elliott",Arena B,29,150,17,84.75,5851,3796448.76,323520.34,7100293,44,8,Fit,2023,479.03
+MATCH1003,05-04-2023,Basketball,France,Lakers,Cristiano Ronaldo,"Knight, Ortiz and Knight",National Ground,23,154,16,84.57,65217,2685778.18,1946365.95,6360753,11,17,Minor Injury,2025,313.07
+MATCH1004,16-07-2023,Basketball,USA,Nets,Lionel Messi,"Roberts, Melton and Fields",Arena B,50,74,5,88.43,18238,1906829.86,909553.55,6130868,21,11,Minor Injury,2023,338.39
+MATCH1005,12-10-2024,Football,Brazil,Bayern Munich,Kylian Mbappe,Delacruz Group,Arena B,11,118,24,41.6,88886,3443928.17,443132.27,5450561,99,1,Fit,2023,404.47
+MATCH1006,09-03-2023,Tennis,England,Grand Slam,Erling Haaland,Miller LLC,National Ground,14,167,31,51.65,89259,2299670.74,533435.93,4147722,96,17,Recovering,2024,376.04
+MATCH1007,06-01-2024,Tennis,England,Davis Cup,Virat Kohli,Clark PLC,Sports Complex,32,23,48,23.77,19371,772678.18,324164.09,7092668,77,2,Minor Injury,2024,301.99
+MATCH1008,20-07-2024,Tennis,India,Grand Slam,Cristiano Ronaldo,"Moreno, Wood and Griffin",Sports Complex,49,68,49,71.28,19621,1474565.64,320524.72,64447,93,8,Recovering,2023,258.76
+MATCH1009,11-05-2025,Football,Spain,Manchester City,Erling Haaland,Hatfield PLC,Arena B,10,95,48,32.92,74514,4593282.54,1199894.45,8207443,3,3,Minor Injury,2024,127.33
+MATCH1010,22-03-2023,Cricket,USA,CSK,Rafael Nadal,"Alvarez, Woods and Boyer",Stadium A,49,136,49,30.06,91474,2381659.07,1101858.17,4456912,68,19,Minor Injury,2023,465.17
+MATCH1011,13-02-2024,Cricket,Germany,England,Rafael Nadal,"Li, Adkins and Smith",Sports Complex,29,30,15,37.98,49313,114960.96,1110073.44,9882386,29,0,Fit,2025,319.24
+MATCH1012,02-02-2023,Cricket,Germany,India,Cristiano Ronaldo,Washington Ltd,Sports Complex,16,71,42,58.83,75678,670236.13,1871350.91,9590513,74,15,Fit,2024,405.67
+MATCH1013,10-04-2023,Cricket,France,India,Stephen Curry,Brown LLC,Olympic Park,27,119,46,24.33,90649,4920984.4,201343.65,6764864,94,10,Fit,2023,103.88
+MATCH1014,24-05-2023,Olympics,France,Japan Olympic Team,Virat Kohli,"Davis, Adams and Garrett",National Ground,30,63,4,55.45,77132,498564.55,1306029.06,9079560,2,2,Fit,2023,209.14
+MATCH1015,04-06-2025,Tennis,France,WTA Tour,Lionel Messi,"Hall, Powell and Ward",Arena B,25,0,24,41.22,64638,1433393.65,1394700.05,9334245,85,15,Fit,2023,155.39
+MATCH1016,23-01-2025,Football,Spain,Bayern Munich,Lionel Messi,"Medina, Taylor and Lane",National Ground,4,12,37,58.14,74615,795589.31,1921753.91,1354047,24,2,Recovering,2023,340.85
+MATCH1017,03-05-2023,Cricket,Japan,Pakistan,Rohit Sharma,"Kirk, Lopez and Miller",Sports Complex,39,10,39,26.56,91163,2922524.72,1047951.52,4384922,27,10,Fit,2024,203.94
+MATCH1018,20-11-2023,Basketball,USA,Bulls,Lionel Messi,"Barrera, Lawson and Hancock",Olympic Park,40,144,6,25.86,32938,2534364.62,269250.86,5865396,9,7,Minor Injury,2024,87.3
+MATCH1019,18-09-2024,Olympics,Spain,China Olympic Team,Lionel Messi,Morrison-Miller,Sports Complex,20,169,6,95.11,22601,1329684.95,1779976.85,9291552,20,8,Minor Injury,2025,113.21
+MATCH1020,04-12-2024,Basketball,Australia,Warriors,Kylian Mbappe,"Fuentes, Gomez and Scott",Olympic Park,17,13,5,70.74,41265,229992.94,670445.29,2204789,82,8,Fit,2025,226.5
+MATCH1021,25-04-2023,Tennis,USA,ATP Tour,Virat Kohli,Patterson-Johnson,Sports Complex,3,94,37,64.2,61333,645953.14,619975.41,679324,46,6,Recovering,2023,336.8
+MATCH1022,14-06-2025,Basketball,France,Nets,Erling Haaland,Wilson-Brady,Arena B,16,41,11,90.51,8248,905009.71,1849352.15,6917400,86,7,Minor Injury,2023,395.81
+MATCH1023,12-06-2025,Football,India,PSG,Rafael Nadal,"Brown, Frank and Higgins",Arena B,13,117,22,44.42,34831,1122388.5,1321766.2,6695149,43,8,Fit,2024,182.06
+MATCH1024,26-11-2024,Olympics,Spain,Japan Olympic Team,Stephen Curry,Velasquez LLC,Stadium A,8,66,11,66.45,39795,200903.41,1195159.65,5809667,94,10,Minor Injury,2025,492.28
+MATCH1025,13-08-2024,Football,England,PSG,LeBron James,Clark Group,Stadium A,46,111,0,61.59,75575,3437417.16,1880824.93,3315700,47,13,Fit,2025,461.18
+MATCH1026,10-11-2024,Olympics,USA,China Olympic Team,LeBron James,Kramer-Allen,Sports Complex,20,170,26,46.09,96384,1485319.46,258939.16,7063918,86,12,Recovering,2025,452.37
+MATCH1027,20-02-2024,Olympics,Spain,China Olympic Team,Lionel Messi,"Vincent, Soto and Marshall",National Ground,19,53,27,82.86,84516,3276981.06,932651.44,7428210,87,6,Recovering,2024,398.93
+MATCH1028,18-10-2023,Cricket,Spain,India,Erling Haaland,Sparks-Mccarty,National Ground,6,192,15,73.82,34444,4034748.84,298971.15,785337,32,15,Recovering,2023,233.15
+MATCH1029,05-01-2025,Olympics,France,India Olympic Team,Rafael Nadal,Walker-Gallegos,Olympic Park,16,37,41,75.01,18970,3894317.83,441588.07,8699889,60,1,Recovering,2023,459.56
+MATCH1030,17-05-2023,Football,Argentina,PSG,Kylian Mbappe,Richard Group,Sports Complex,39,81,48,91.31,85301,4076882.47,1784580.49,7169521,71,14,Fit,2025,432.13
+MATCH1031,08-02-2025,Tennis,England,Grand Slam,LeBron James,Martin-Hill,Sports Complex,32,160,15,41.97,15155,3570588.86,472814.69,5644586,41,17,Fit,2023,83.91
+MATCH1032,24-12-2024,Tennis,England,WTA Tour,Cristiano Ronaldo,"Peterson, Schmidt and Silva",Olympic Park,27,84,34,57.27,13161,1042103.6,843186.32,9809226,90,0,Recovering,2024,243.72
+MATCH1033,10-02-2025,Basketball,France,Celtics,Novak Djokovic,"Harding, Lamb and Vaughan",Sports Complex,48,188,34,83.99,33906,2446265.09,549505.95,8157720,4,12,Minor Injury,2025,342.78
+MATCH1034,10-05-2025,Tennis,Argentina,WTA Tour,Virat Kohli,Mora-Johnson,Sports Complex,35,6,25,67.35,91900,145239.21,1287285.55,2286659,60,5,Fit,2024,195.76
+MATCH1035,01-12-2023,Cricket,Germany,Pakistan,Novak Djokovic,Avila-Robinson,National Ground,49,107,16,86.79,66644,106722.6,1081141,5881360,29,20,Fit,2025,29.73
+MATCH1036,24-07-2023,Football,India,Barcelona,Erling Haaland,Golden PLC,Arena B,16,32,30,73.56,78920,4739307.54,932742.8,4309055,99,11,Fit,2025,307.55
+MATCH1037,15-11-2023,Football,USA,Barcelona,Erling Haaland,Wise-Rios,Stadium A,20,147,43,92.64,54192,1989305.66,1431454.34,1285009,76,20,Fit,2023,351.62
+MATCH1038,04-04-2025,Basketball,USA,Nets,Erling Haaland,"Thompson, Morgan and Kerr",Stadium A,23,136,27,72.92,14038,2534744.34,685756.19,7057416,63,3,Minor Injury,2024,321.44
+MATCH1039,21-03-2024,Tennis,Brazil,WTA Tour,Kylian Mbappe,Adams-Jordan,National Ground,40,137,49,58.68,62091,4130415.65,1186986.87,5417373,32,2,Minor Injury,2024,129.49
+MATCH1040,11-12-2023,Tennis,India,Davis Cup,Rafael Nadal,"Edwards, Pugh and Smith",National Ground,12,124,13,48.39,38862,1708290.83,1761238.36,4645017,72,0,Recovering,2023,51.95
+MATCH1041,22-07-2024,Tennis,England,Davis Cup,Rafael Nadal,Williams Ltd,Olympic Park,29,4,5,43.54,58005,3462017.9,615881.03,9766883,48,15,Recovering,2025,178.44
+MATCH1042,27-12-2023,Olympics,Argentina,China Olympic Team,LeBron James,Brown-Vega,National Ground,17,59,7,77.7,46359,606578.16,1074048.61,3116298,25,6,Recovering,2024,145.48
+MATCH1043,13-04-2023,Olympics,England,China Olympic Team,LeBron James,Griffin-Haley,Arena B,24,45,19,21.13,75010,641648.97,95803.82,924794,71,9,Recovering,2023,322.56
+MATCH1044,12-06-2025,Tennis,India,ATP Tour,Erling Haaland,Estes-Jensen,National Ground,31,122,28,47.26,11734,1269867.17,1724137.31,1924064,9,12,Minor Injury,2023,292.74
+MATCH1045,02-06-2023,Football,Japan,Barcelona,LeBron James,Rush and Sons,Stadium A,16,30,35,81.16,84471,2984672.96,1238744.61,8777312,49,14,Minor Injury,2024,431.48
+MATCH1046,05-08-2024,Tennis,Japan,Grand Slam,Lionel Messi,Burton-Hodge,Sports Complex,48,25,48,36.62,32659,1330584.17,166968.99,4034269,23,17,Fit,2023,11.31
+MATCH1047,26-10-2023,Tennis,India,Davis Cup,Rohit Sharma,Wood Ltd,National Ground,46,72,44,88.77,14329,3440050.75,1848202.53,9905027,85,6,Minor Injury,2023,276.84
+MATCH1048,26-04-2025,Cricket,Brazil,England,Cristiano Ronaldo,Casey Group,Stadium A,11,78,38,79.92,79607,4606750.72,881111.13,7873447,89,9,Recovering,2024,471.91
+MATCH1049,24-03-2024,Olympics,USA,Japan Olympic Team,Erling Haaland,Miller and Sons,Stadium A,28,188,20,68.3,8390,465721.16,1924012.65,9660239,76,0,Recovering,2024,292.36
+MATCH1050,15-06-2024,Cricket,Argentina,Pakistan,LeBron James,"Waters, Lozano and Parrish",Arena B,38,111,40,85.14,16959,2355351.87,819654.45,5396463,86,3,Fit,2024,211.71
+MATCH1051,09-11-2024,Tennis,France,Grand Slam,Kylian Mbappe,Mullins-Park,Stadium A,30,22,20,40.19,20194,4851221.79,811329.24,8643492,1,17,Minor Injury,2024,36.56
+MATCH1052,29-09-2024,Olympics,Argentina,China Olympic Team,Rafael Nadal,Rush-Wright,Stadium A,14,68,35,30.48,42752,2196199.31,1398008.81,2047191,4,20,Recovering,2023,357.79
+MATCH1053,15-01-2023,Basketball,Spain,Nets,Novak Djokovic,"Schwartz, Terry and Barton",Stadium A,15,29,29,95.76,89896,4162394.44,999259.13,4906624,66,8,Minor Injury,2024,490.32
+MATCH1054,18-07-2024,Cricket,Brazil,Pakistan,Novak Djokovic,White and Sons,Arena B,39,130,47,90.35,14150,1388474.54,1581062.33,6971578,44,16,Minor Injury,2023,148.59
+MATCH1055,16-08-2024,Basketball,Argentina,Nets,Virat Kohli,"Rodriguez, Fowler and Mueller",Olympic Park,35,123,22,46.6,76228,1892278.17,1866040.25,3175061,90,7,Recovering,2024,124.45
+MATCH1056,22-11-2023,Tennis,Argentina,ATP Tour,Novak Djokovic,"Payne, Bell and Cochran",Olympic Park,43,166,9,59.63,9852,639968.89,1930880.41,5579946,13,14,Fit,2025,456.12
+MATCH1057,24-02-2024,Football,Brazil,Barcelona,Cristiano Ronaldo,"Kennedy, Walters and Riley",Olympic Park,17,86,39,75.42,90175,410773.45,660488.35,8962696,49,10,Recovering,2025,444.84
+MATCH1058,24-09-2024,Tennis,USA,ATP Tour,Rohit Sharma,Rich Ltd,National Ground,15,191,5,54.72,17903,3804244.77,1409262.2,1696231,57,5,Recovering,2024,452.68
+MATCH1059,26-03-2025,Football,India,Manchester City,LeBron James,Reilly-Williams,National Ground,24,110,9,39.54,59008,2833981.03,1586076.35,2861852,23,2,Recovering,2024,313.66
+MATCH1060,20-08-2024,Cricket,Brazil,Pakistan,Rohit Sharma,Morgan-Meyer,Olympic Park,41,65,29,40.43,6231,4495553.57,933180.24,4835658,87,17,Fit,2023,226.45
+MATCH1061,03-11-2023,Basketball,France,Nets,LeBron James,"Brown, Brown and Garcia",Olympic Park,20,50,24,88.27,18979,1193656.45,1145985.77,9653743,38,9,Fit,2025,203.94
+MATCH1062,04-06-2025,Football,India,Bayern Munich,Erling Haaland,"Cisneros, Smith and Cobb",Olympic Park,19,198,14,68.57,51179,1102832.65,384313.32,4214819,87,4,Recovering,2023,452.67
+MATCH1063,18-03-2025,Football,Argentina,Manchester City,Lionel Messi,Barr-Simmons,Sports Complex,24,187,8,27.21,43680,1640328.44,833928.67,3378777,17,17,Minor Injury,2025,255.88
+MATCH1064,21-09-2023,Basketball,Argentina,Warriors,LeBron James,Austin-Perez,National Ground,8,119,4,31.26,34571,4302101.58,1449812.34,6677458,72,11,Fit,2024,16.82
+MATCH1065,10-04-2024,Olympics,Germany,Team USA,LeBron James,Gallegos-Davis,Sports Complex,25,163,23,28.67,35647,2362669.57,1240996,9428852,42,19,Fit,2025,40.98
+MATCH1066,26-10-2024,Tennis,France,Grand Slam,Cristiano Ronaldo,Allen-Anderson,Arena B,3,9,19,99.67,20220,494988.07,1775082.32,2286065,50,14,Minor Injury,2025,475.2
+MATCH1067,24-08-2024,Olympics,Brazil,Japan Olympic Team,Novak Djokovic,Miller-Yates,Stadium A,32,157,26,95.12,41666,173254.27,744207.27,7448733,57,7,Minor Injury,2023,490.65
+MATCH1068,22-10-2024,Basketball,Germany,Nets,Lionel Messi,Davis Group,Olympic Park,18,48,7,95.92,64600,467450.38,428151.1,368318,7,10,Fit,2023,395.62
+MATCH1069,29-04-2025,Cricket,Spain,India,Rohit Sharma,Johnson-Hill,Sports Complex,14,59,21,81.95,83116,24149.4,1717520.22,2437461,17,17,Minor Injury,2023,63.86
+MATCH1070,16-01-2023,Football,Germany,Barcelona,Rohit Sharma,Moyer LLC,Sports Complex,21,4,11,41.23,21614,3711173.1,1054540.63,1076326,61,14,Minor Injury,2025,300.9
+MATCH1071,21-09-2024,Tennis,India,WTA Tour,Kylian Mbappe,"Parker, Clark and Sampson",National Ground,30,164,1,24.87,67781,4238019.73,855415.87,1821298,63,14,Fit,2023,167.83
+MATCH1072,10-05-2023,Cricket,Australia,India,Erling Haaland,Sweeney and Sons,Sports Complex,36,182,20,50.47,83301,2657478.62,910162.26,7227547,13,3,Recovering,2025,440.08
+MATCH1073,16-03-2024,Olympics,Argentina,India Olympic Team,Rohit Sharma,Ortiz-Huynh,Olympic Park,22,116,25,53.28,17463,1569616.27,628484.52,4286341,48,4,Recovering,2024,42.9
+MATCH1074,18-03-2024,Football,USA,Real Madrid,Stephen Curry,"Smith, Ellis and Mora",Arena B,36,15,37,96.53,78620,1654933.45,248851.41,5942391,86,13,Recovering,2023,484.52
+MATCH1075,27-12-2023,Olympics,USA,China Olympic Team,Erling Haaland,Sloan-Mathis,Sports Complex,14,39,42,58.58,19184,1757068.83,1114749.62,1937455,98,8,Recovering,2023,405.54
+MATCH1076,15-09-2024,Olympics,Australia,Team USA,Lionel Messi,Ward-Lewis,Arena B,18,179,48,44.72,49541,1761606.87,366904.09,2413361,73,12,Fit,2023,373.07
+MATCH1077,03-02-2025,Football,Spain,Real Madrid,Rohit Sharma,"Coleman, Hood and Le",Olympic Park,27,116,21,32.59,45846,3610763.88,1554787.06,9532639,77,2,Fit,2023,87.13
+MATCH1078,21-11-2024,Olympics,USA,Team USA,LeBron James,Rodriguez-Black,Olympic Park,43,108,31,68.57,59287,1373102.55,1511111.57,1919540,45,13,Fit,2024,342.33
+MATCH1079,23-06-2024,Olympics,Australia,Japan Olympic Team,Lionel Messi,Brown-Woods,Arena B,26,153,3,20.61,44507,4727167.2,1535862.31,4296905,38,10,Fit,2023,253.72
+MATCH1080,13-05-2023,Tennis,France,WTA Tour,Kylian Mbappe,Barrera-Miller,Arena B,33,143,42,84.5,14447,1991385.16,1485372.45,7328550,3,14,Fit,2024,292.12
+MATCH1081,27-12-2024,Olympics,France,Japan Olympic Team,LeBron James,"Wolf, Johnson and Walker",Stadium A,26,5,20,33.75,86018,2305883.54,1380772.03,6080880,12,13,Fit,2023,223.48
+MATCH1082,10-02-2024,Tennis,Australia,ATP Tour,Stephen Curry,"Ellis, Thompson and Williams",Arena B,22,199,10,26.11,87998,578992.93,1022354.36,5871544,45,20,Fit,2023,60.37
+MATCH1083,27-06-2023,Basketball,Japan,Warriors,Virat Kohli,"Robbins, Franklin and Lang",Stadium A,12,197,40,59.53,78889,3801786.98,900565.99,9480600,83,20,Recovering,2024,433.48
+MATCH1084,26-03-2024,Basketball,USA,Warriors,Rafael Nadal,Payne-Anderson,Olympic Park,41,77,50,41.97,12362,1766191.69,153010.36,7756753,58,1,Fit,2024,417.53
+MATCH1085,21-09-2024,Football,Japan,Real Madrid,Kylian Mbappe,Soto PLC,Olympic Park,30,148,35,96.34,10376,2254171.18,1620582.76,3168134,42,19,Minor Injury,2025,83.92
+MATCH1086,16-04-2023,Football,Germany,PSG,Cristiano Ronaldo,"Christensen, Griffin and Baker",Sports Complex,42,44,2,39.82,62377,4955020.25,1050516.76,2673319,47,11,Minor Injury,2024,210.3
+MATCH1087,23-02-2023,Basketball,Germany,Nets,Cristiano Ronaldo,Page-Church,National Ground,7,142,43,50.93,38029,3621430.94,1314845.35,2532845,43,2,Recovering,2025,79.3
+MATCH1088,02-11-2024,Basketball,France,Celtics,Virat Kohli,Orozco Inc,Sports Complex,46,21,19,64.71,89343,3960393.17,1627303.64,8841414,12,20,Recovering,2024,259.16
+MATCH1089,13-11-2023,Football,Brazil,Manchester City,Rohit Sharma,Berger-Manning,National Ground,50,124,12,38.12,23030,783176.41,595105.24,1706860,65,17,Recovering,2025,28.5
+MATCH1090,15-05-2023,Basketball,Japan,Nets,Novak Djokovic,Ford and Sons,Arena B,11,46,44,81.69,26697,3608703.16,92166.39,6121929,87,7,Minor Injury,2025,149.61
+MATCH1091,30-06-2024,Tennis,England,WTA Tour,LeBron James,Lee Ltd,Olympic Park,13,94,43,95.77,62749,2313783.09,567134.61,6416756,65,16,Minor Injury,2023,410.28
+MATCH1092,12-06-2025,Olympics,Australia,India Olympic Team,Lionel Messi,Johnson Group,Olympic Park,24,141,6,76.91,72621,4257318.58,573700.71,2699594,35,14,Recovering,2023,417.21
+MATCH1093,16-04-2025,Football,Argentina,Barcelona,Stephen Curry,Smith-Adams,Stadium A,27,13,25,60.16,35903,1936968.93,167802.85,3777135,4,10,Fit,2025,328.48
+MATCH1094,09-02-2023,Cricket,Australia,Australia,Rafael Nadal,Lopez-Shaw,Arena B,49,180,30,55.89,5688,4530228.87,42912.75,3628086,20,17,Recovering,2025,268.61
+MATCH1095,01-09-2023,Football,Australia,Manchester City,Cristiano Ronaldo,Estrada Ltd,Stadium A,16,107,40,83.51,64914,323407.68,1674192,8395742,77,17,Fit,2025,262.53
+MATCH1096,26-10-2023,Cricket,France,Australia,Lionel Messi,Spears Ltd,Sports Complex,23,61,36,53.33,92080,3344392.37,1049351.69,6059927,9,16,Recovering,2025,395.34
+MATCH1097,04-02-2024,Olympics,Argentina,Team USA,Lionel Messi,"Griffith, Flores and Perry",Olympic Park,24,64,47,21.3,13855,1730564.44,1467217.34,1749191,99,18,Recovering,2024,75.37
+MATCH1098,13-12-2023,Basketball,Brazil,Nets,Rafael Nadal,"Flowers, Jones and Ingram",Olympic Park,41,46,8,25.05,64988,194549.11,407174.03,3356548,6,10,Minor Injury,2025,205.13
+MATCH1099,17-09-2023,Olympics,India,Japan Olympic Team,Rohit Sharma,"Mason, Jones and Watson",National Ground,23,199,3,89.26,48506,1373350.86,1599688.11,7340827,52,14,Minor Injury,2024,487.12
+MATCH1100,12-01-2024,Tennis,Spain,Davis Cup,LeBron James,Duran Ltd,Stadium A,47,108,5,54.45,28652,2731917.24,645816.8,1353333,42,9,Minor Injury,2024,305.28
+MATCH1101,07-12-2024,Tennis,Argentina,WTA Tour,Stephen Curry,Bean PLC,Olympic Park,3,186,22,69.19,62008,1380031.25,1960154.42,972308,10,20,Minor Injury,2024,261.41
+MATCH1102,27-05-2023,Cricket,Japan,India,Rafael Nadal,"Floyd, Briggs and Watson",Stadium A,9,17,15,82.28,53015,1817131.41,1899186.89,553335,78,4,Recovering,2024,474.92
+MATCH1103,20-02-2025,Basketball,USA,Bulls,Erling Haaland,Black-Guerra,Arena B,34,93,25,45.15,41528,1255562.15,231329.98,3131368,64,16,Minor Injury,2025,67.7
+MATCH1104,08-08-2023,Basketball,Japan,Bulls,LeBron James,Crane-Benton,Olympic Park,13,31,8,88.23,64250,871555.26,1428172.94,1482884,88,10,Recovering,2024,357.67
+MATCH1105,04-11-2023,Olympics,Brazil,China Olympic Team,Virat Kohli,Sutton and Sons,National Ground,33,57,7,98.81,23202,1191313.56,990573.77,6064838,71,18,Minor Injury,2024,403.79
+MATCH1106,18-09-2024,Olympics,USA,India Olympic Team,Cristiano Ronaldo,"Rodriguez, Yoder and Gomez",National Ground,26,183,46,58.29,58843,3848131.11,1647562.1,1247331,17,10,Recovering,2023,230.49
+MATCH1107,12-05-2023,Olympics,Spain,China Olympic Team,Erling Haaland,Kelly and Sons,Arena B,50,33,27,60.23,12263,4158640.12,1038613.76,5112363,22,5,Minor Injury,2025,120.48
+MATCH1108,16-05-2025,Olympics,USA,China Olympic Team,LeBron James,Wolfe-Rivera,Arena B,41,141,17,30.01,44691,3075997.11,191389.67,2839240,76,18,Fit,2023,332.78
+MATCH1109,12-05-2025,Olympics,Japan,China Olympic Team,Lionel Messi,"Warner, Green and Mcguire",Stadium A,6,11,41,81.68,39688,3259138.59,1535083.21,6999166,80,20,Fit,2024,445.61
+MATCH1110,19-10-2024,Olympics,Australia,China Olympic Team,Rafael Nadal,Logan LLC,Arena B,44,103,19,56.28,95257,308966.03,882012.97,8134385,60,6,Minor Injury,2025,80.4
+MATCH1111,13-02-2024,Basketball,Brazil,Celtics,Stephen Curry,"Bell, Norris and Mcdaniel",Sports Complex,36,27,20,39.34,21059,1344683.66,499598.17,1634230,7,9,Minor Injury,2025,214.89
+MATCH1112,14-08-2024,Cricket,Germany,England,Rohit Sharma,Robinson-Young,Arena B,32,131,29,59.9,45441,2491877.66,184647.94,6607509,65,14,Fit,2023,295.84
+MATCH1113,16-10-2023,Football,Argentina,Real Madrid,Erling Haaland,Nelson Ltd,Olympic Park,19,137,0,87.77,61482,678335.37,532623.44,6146730,98,12,Minor Injury,2023,206.28
+MATCH1114,07-01-2024,Olympics,Spain,India Olympic Team,LeBron James,Coleman-Peterson,Stadium A,25,129,28,81.15,41663,4128303.48,1248366.95,2003318,17,3,Minor Injury,2024,399.5
+MATCH1115,10-01-2024,Basketball,Brazil,Nets,Rohit Sharma,"House, Costa and Cooley",Sports Complex,33,102,32,23.22,10100,693811.5,669416.21,7958107,67,14,Fit,2025,447.63
+MATCH1116,19-09-2024,Cricket,Germany,England,Virat Kohli,"Cohen, Pittman and Dougherty",Olympic Park,40,189,19,67.5,71494,4143164.04,1067017.96,9454301,39,15,Fit,2024,172.31
+MATCH1117,20-08-2024,Football,Australia,PSG,Lionel Messi,Davis LLC,Sports Complex,31,67,41,82.63,80821,2892395.64,1444193.22,9799896,62,5,Recovering,2025,363.38
+MATCH1118,21-04-2025,Tennis,England,WTA Tour,Lionel Messi,Burns-Jones,Sports Complex,45,28,12,21.51,46116,2099713.69,828855.42,3430734,53,16,Recovering,2024,437.68
+MATCH1119,15-06-2024,Football,England,Barcelona,Kylian Mbappe,Brennan PLC,National Ground,43,122,33,50.15,27699,2303721.02,1068588.49,9174943,46,20,Recovering,2024,308.94
+MATCH1120,13-10-2023,Cricket,Spain,Australia,LeBron James,"Burke, Baxter and Blake",Arena B,20,197,18,76.39,95471,3527891.42,637496.29,5861946,72,8,Minor Injury,2023,291
+MATCH1121,09-02-2024,Olympics,Germany,Japan Olympic Team,Virat Kohli,"Nelson, Newman and Gentry",National Ground,3,73,45,26.32,62983,3283300.53,1495940.31,3600102,26,17,Minor Injury,2025,351.12
+MATCH1122,22-09-2024,Cricket,Japan,India,Rohit Sharma,Schultz-Watson,Arena B,4,171,33,38.05,35518,271930.62,829536.23,7935622,13,4,Fit,2025,489.18
+MATCH1123,30-10-2024,Cricket,Argentina,Pakistan,Rafael Nadal,Burke-Potts,Arena B,49,73,20,42.83,12754,4540605.42,183474.14,9642359,30,17,Recovering,2025,426.66
+MATCH1124,03-03-2024,Football,Brazil,Barcelona,Lionel Messi,Thompson-Garcia,Olympic Park,32,47,47,96.97,42941,4384948.41,23488,9538818,78,3,Minor Injury,2024,232.63
+MATCH1125,18-05-2023,Olympics,Spain,Japan Olympic Team,Rafael Nadal,Gardner PLC,National Ground,13,28,21,33,65150,3244943.84,1438603.36,246293,95,10,Minor Injury,2025,340.46
+MATCH1126,17-09-2024,Cricket,France,Australia,Novak Djokovic,Coffey and Sons,Sports Complex,21,22,25,73.54,29219,4908609.11,957520.93,4171539,1,8,Minor Injury,2023,228.9
+MATCH1127,06-11-2023,Basketball,Japan,Celtics,Erling Haaland,Davis PLC,Stadium A,17,167,23,75.42,13142,3342252.71,933463.01,2689603,52,16,Recovering,2024,348.24
+MATCH1128,21-09-2024,Basketball,England,Celtics,Rohit Sharma,Simpson Ltd,Arena B,31,39,29,79.82,84395,1874387.96,1405371.75,7909184,97,17,Recovering,2023,383.31
+MATCH1129,22-06-2024,Olympics,Argentina,Team USA,Kylian Mbappe,Johnson Group,National Ground,5,144,7,24.94,76781,4515411.92,408302.77,9013663,20,5,Minor Injury,2025,226.5
+MATCH1130,15-05-2024,Cricket,USA,CSK,Kylian Mbappe,Cabrera-Howard,Olympic Park,4,116,8,61.06,64873,2823916.81,1119800.41,5180227,93,0,Minor Injury,2024,410.06
+MATCH1131,16-03-2023,Cricket,India,CSK,Novak Djokovic,Powell Ltd,National Ground,45,16,34,99.53,14046,4930824.87,946782.05,4826582,53,5,Fit,2025,489.38
+MATCH1132,27-01-2024,Tennis,Argentina,Grand Slam,Novak Djokovic,Torres Ltd,Olympic Park,6,174,42,89.96,22431,3271135.15,698800.92,3004290,69,12,Recovering,2023,366.65
+MATCH1133,13-02-2025,Cricket,India,India,LeBron James,Davidson-Mason,Olympic Park,44,184,34,53.93,54712,4118568.58,498786.52,5817596,20,8,Fit,2025,385.09
+MATCH1134,21-09-2024,Football,India,PSG,Rohit Sharma,Smith-Bishop,Arena B,5,25,38,22.69,83352,3363397.95,1745063.77,4115957,95,1,Minor Injury,2024,124.83
+MATCH1135,24-05-2023,Cricket,Spain,India,LeBron James,"Hernandez, Harris and Patterson",Arena B,47,147,20,66.2,93150,4093728.62,477623.55,2413511,85,16,Fit,2024,157.25
+MATCH1136,28-08-2024,Football,Brazil,Bayern Munich,Novak Djokovic,"Santiago, Johns and Mullen",Sports Complex,32,12,22,95.33,92994,1911961.62,1051303.8,6994768,53,4,Minor Injury,2024,100.1
+MATCH1137,04-09-2023,Olympics,England,Japan Olympic Team,LeBron James,"Mcdaniel, Hoffman and Davenport",Arena B,30,14,35,53.01,59592,2790860.92,272515.04,4084489,33,6,Minor Injury,2025,48.74
+MATCH1138,05-04-2023,Tennis,Spain,Grand Slam,Rohit Sharma,Young-Sandoval,Stadium A,18,96,43,68.4,10183,4369366.09,380385.77,9868018,93,17,Fit,2024,112.36
+MATCH1139,16-01-2023,Basketball,England,Celtics,Rohit Sharma,Wells LLC,Stadium A,48,193,30,93.16,96177,3025963.66,413003.72,4025307,71,10,Minor Injury,2024,238.46
+MATCH1140,25-09-2023,Basketball,Germany,Celtics,Kylian Mbappe,"Smith, Pittman and Stevens",Olympic Park,30,25,46,57.56,46973,4572509.19,744556.32,6954595,6,18,Fit,2025,81.5
+MATCH1141,21-08-2024,Basketball,Japan,Nets,Novak Djokovic,Fitzgerald Ltd,National Ground,10,50,21,38.4,79683,4168479.95,1001106.46,5673388,33,15,Recovering,2025,372.4
+MATCH1142,20-01-2025,Tennis,Germany,WTA Tour,Virat Kohli,"Reyes, Delgado and Mckee",Arena B,47,139,31,34.72,76058,4951714.47,1914687.6,8800328,5,2,Recovering,2023,384.53
+MATCH1143,12-05-2025,Tennis,England,WTA Tour,Cristiano Ronaldo,Hernandez-Frye,Arena B,1,55,32,56.48,12923,3092997.83,1335175.69,8116820,85,15,Fit,2023,270.78
+MATCH1144,18-01-2023,Tennis,Spain,ATP Tour,LeBron James,Adkins LLC,Sports Complex,19,4,32,85.05,93346,2158560.31,1879725.27,3017598,14,3,Recovering,2023,128.07
+MATCH1145,14-04-2025,Olympics,Germany,China Olympic Team,LeBron James,Moreno LLC,Olympic Park,6,95,25,56.72,36877,4951262.83,455585.22,1362527,84,20,Fit,2023,208.59
+MATCH1146,27-02-2023,Tennis,India,Davis Cup,Virat Kohli,Hughes PLC,Stadium A,32,111,41,82.75,79167,4886872.82,1947810.29,8871040,6,7,Fit,2025,444.9
+MATCH1147,17-02-2023,Tennis,USA,Grand Slam,LeBron James,Turner-Jackson,Sports Complex,37,168,2,34.35,46220,88133.9,418280.44,2429132,97,12,Fit,2024,89.6
+MATCH1148,04-05-2025,Cricket,France,CSK,Kylian Mbappe,"Ramos, Velez and Lopez",National Ground,25,193,47,31.2,95349,3623576.21,1004081.74,5812559,7,3,Minor Injury,2023,420.95
+MATCH1149,26-02-2025,Basketball,Japan,Nets,Erling Haaland,Spencer and Sons,Olympic Park,50,83,1,70.73,64054,2458111.25,714843.34,6308619,56,5,Recovering,2025,333.73
+MATCH1150,30-10-2023,Football,England,Bayern Munich,Cristiano Ronaldo,"Sims, Walters and Stevens",Stadium A,18,39,24,76.93,88086,779841.68,782295.84,6061545,14,2,Fit,2024,227.92
+MATCH1151,16-05-2023,Basketball,USA,Lakers,Virat Kohli,Young-Yang,Olympic Park,29,142,35,61,18538,141046.9,711059,1571359,77,19,Minor Injury,2024,16.05
+MATCH1152,08-03-2025,Tennis,USA,Davis Cup,Kylian Mbappe,"Waters, Mccann and Lee",Arena B,37,133,10,74.83,27216,702811.89,605756.87,8283246,19,2,Fit,2024,145.22
+MATCH1153,12-03-2025,Basketball,USA,Bulls,Stephen Curry,Hudson and Sons,National Ground,16,184,40,59.66,85828,985785.64,218409.87,5121313,1,12,Minor Injury,2025,196.15
+MATCH1154,09-12-2023,Basketball,France,Bulls,Erling Haaland,Kane and Sons,Arena B,20,82,38,95.78,31326,2400258.61,359386.36,6691351,41,9,Recovering,2025,320.12
+MATCH1155,30-11-2023,Olympics,France,India Olympic Team,LeBron James,Brock Inc,Olympic Park,24,29,36,35.98,76516,907836.79,1536397.73,461577,94,14,Recovering,2023,224.84
+MATCH1156,18-04-2025,Basketball,France,Lakers,Rafael Nadal,"Martinez, Pham and Cortez",Arena B,41,77,15,40.21,25203,3579029.59,1579208.14,1250929,58,19,Minor Injury,2025,206.39
+MATCH1157,10-07-2024,Olympics,India,Japan Olympic Team,Stephen Curry,Cortez-Mcdonald,Sports Complex,39,163,5,28.75,37536,3291432.21,713242.59,753175,73,20,Recovering,2025,205.81
+MATCH1158,19-04-2023,Basketball,India,Bulls,Cristiano Ronaldo,Lara Group,National Ground,15,130,47,61.5,81089,3441445.4,445958.31,6286684,51,14,Recovering,2025,348.31
+MATCH1159,26-01-2023,Cricket,Argentina,England,Cristiano Ronaldo,"Ferguson, Carpenter and Gonzalez",National Ground,27,21,7,86.51,23569,1748159.98,689418.03,3480657,67,15,Minor Injury,2024,57.84
+MATCH1160,10-03-2023,Tennis,Australia,Grand Slam,Lionel Messi,"Lane, Bennett and Williams",Stadium A,2,87,41,28.75,26542,4650313.01,1482276.52,8666941,23,17,Fit,2024,284.33
+MATCH1161,27-03-2025,Tennis,France,WTA Tour,Virat Kohli,Warren Inc,Arena B,41,168,27,51.65,85492,4416655.9,901902.15,7216700,50,0,Recovering,2023,110.83
+MATCH1162,15-04-2023,Football,Spain,Bayern Munich,Virat Kohli,"Herrera, Price and Ballard",National Ground,21,50,29,29.12,92910,4314556.37,1057791.46,5268048,77,12,Recovering,2024,297.63
+MATCH1163,15-05-2025,Basketball,Argentina,Celtics,Erling Haaland,"Tucker, Alvarez and Griffin",Arena B,44,180,19,93.49,82354,432912.32,272225.8,1987390,31,9,Fit,2023,192.92
+MATCH1164,02-02-2024,Cricket,France,CSK,Erling Haaland,"Taylor, Hunt and Richardson",Arena B,37,98,27,34.86,88296,2691522.56,1838726.19,2916397,72,5,Minor Injury,2024,78.75
+MATCH1165,26-09-2024,Basketball,India,Bulls,Stephen Curry,"Davis, Keller and Mitchell",Stadium A,32,34,12,85.22,78607,2532135.72,992464.85,8259791,54,14,Minor Injury,2023,50.51
+MATCH1166,27-10-2023,Football,India,Barcelona,LeBron James,"Brown, Johnson and Robinson",Arena B,35,73,10,82.46,79140,3715166.08,1533009.51,9232874,66,3,Recovering,2023,141.27
+MATCH1167,09-07-2024,Olympics,India,China Olympic Team,Rafael Nadal,Schmidt Inc,Sports Complex,14,108,6,78.88,90678,3759214.02,598929.33,550736,58,8,Minor Injury,2023,225.14
+MATCH1168,03-08-2023,Football,Japan,Barcelona,Stephen Curry,Chavez-Anderson,Sports Complex,41,109,10,69.29,32082,4069514.03,1611853.78,9574260,45,17,Minor Injury,2025,274
+MATCH1169,24-10-2023,Basketball,Japan,Celtics,LeBron James,"Cook, Osborne and Marquez",Sports Complex,44,24,8,97.02,58948,4594655.87,1985010.02,2138830,90,4,Fit,2023,358.58
+MATCH1170,16-05-2024,Cricket,Brazil,Pakistan,Erling Haaland,"Sheppard, Allen and Frazier",National Ground,41,106,24,56.16,88050,3975047.17,1538924.05,6768714,66,8,Recovering,2024,232.8
+MATCH1171,18-08-2024,Tennis,India,Grand Slam,Cristiano Ronaldo,"Gray, Bailey and Reynolds",Olympic Park,41,170,44,48.66,13300,3980432.85,798443.16,7218215,28,15,Minor Injury,2024,415.89
+MATCH1172,14-08-2024,Basketball,Brazil,Nets,Erling Haaland,"Chapman, Walters and Jones",Olympic Park,22,174,48,23.87,18051,3134635.82,1674220.85,283155,16,5,Minor Injury,2024,10.33
+MATCH1173,06-12-2024,Tennis,Brazil,WTA Tour,LeBron James,Holland Ltd,Arena B,18,23,41,48.83,15803,1865500.4,1808081.54,2787050,7,12,Recovering,2024,365.73
+MATCH1174,02-11-2024,Cricket,USA,Pakistan,Cristiano Ronaldo,"Abbott, Acosta and Williams",Stadium A,14,122,4,30.62,34647,2602026.83,892908.42,145267,90,10,Fit,2024,350.08
+MATCH1175,23-08-2023,Tennis,France,ATP Tour,Cristiano Ronaldo,Foster-Compton,Stadium A,7,80,23,90.48,22973,1919778.04,1627669.01,2243823,83,4,Fit,2025,286.01
+MATCH1176,26-03-2024,Olympics,Germany,India Olympic Team,Rohit Sharma,Kirk and Sons,Arena B,27,157,43,55.39,33474,442573.29,205427.9,2076235,76,12,Minor Injury,2024,164.11
+MATCH1177,11-10-2023,Cricket,USA,Australia,Rohit Sharma,"Ortiz, Diaz and Wright",Sports Complex,39,153,46,68.61,95502,143853.79,1694904.69,5070836,27,16,Recovering,2025,102.44
+MATCH1178,23-10-2024,Tennis,India,Grand Slam,Rohit Sharma,Harris and Sons,Olympic Park,25,28,15,59.97,82847,364349.89,1778005.43,212450,47,10,Fit,2024,431.8
+MATCH1179,10-01-2024,Olympics,Spain,Japan Olympic Team,Virat Kohli,Phelps-Peterson,Olympic Park,50,18,1,66.99,6807,1318304.53,84454.59,1024499,51,16,Minor Injury,2025,359.19
+MATCH1180,19-12-2024,Tennis,France,Davis Cup,Cristiano Ronaldo,Leon Inc,Sports Complex,35,157,9,42.2,45620,404317.59,1842245.09,2616795,69,10,Minor Injury,2025,320.8
+MATCH1181,16-12-2024,Football,France,Manchester City,Rohit Sharma,"Sutton, Harris and Harris",Stadium A,16,22,27,29.28,85254,3048073.7,622033.68,2956849,16,0,Recovering,2023,353.73
+MATCH1182,22-12-2023,Cricket,Spain,Pakistan,Kylian Mbappe,"Deleon, Reed and Deleon",National Ground,11,95,8,79.98,40227,3667349.83,240523.16,502516,43,13,Minor Injury,2025,41.3
+MATCH1183,23-05-2024,Olympics,Argentina,Team USA,Kylian Mbappe,"Singh, Fuller and Howard",National Ground,4,127,36,33.35,25618,1283029.24,210295.31,9638650,87,3,Fit,2025,259.32
+MATCH1184,08-09-2023,Football,India,Real Madrid,Rafael Nadal,"Poole, Parker and Madden",National Ground,25,38,11,94.49,9635,2768795.29,1828325.6,7045849,29,10,Fit,2024,458.77
+MATCH1185,25-04-2025,Basketball,USA,Celtics,Erling Haaland,Miles-Harris,National Ground,8,128,43,92.16,28507,1123693.45,1033969.39,780553,52,2,Minor Injury,2024,389.03
+MATCH1186,30-03-2023,Basketball,Spain,Celtics,Rafael Nadal,"Ali, Williams and Barnes",Stadium A,24,51,18,65.1,44834,3700484.17,488955.07,6188606,76,15,Fit,2025,451.22
+MATCH1187,07-01-2023,Cricket,France,Australia,Lionel Messi,Mathis and Sons,Arena B,35,88,40,87.17,6257,4755441.41,7916.77,6322844,95,9,Fit,2023,269.61
+MATCH1188,18-05-2024,Cricket,India,Pakistan,Virat Kohli,Allen PLC,National Ground,6,11,14,91.78,73125,2071153.45,1791677.99,7701649,96,2,Recovering,2023,257.66
+MATCH1189,29-08-2024,Tennis,Japan,ATP Tour,Lionel Messi,"Miles, Anderson and Miller",Olympic Park,43,33,15,43.33,46288,4630949.34,788940.58,5483593,41,14,Minor Injury,2023,46.6
+MATCH1190,09-03-2025,Cricket,Japan,Australia,Cristiano Ronaldo,"Barrett, Pham and Ware",Arena B,7,42,28,57.28,58282,612476.32,719783.45,3493557,58,9,Minor Injury,2024,427.72
+MATCH1191,06-04-2025,Football,Australia,Barcelona,Erling Haaland,Powell PLC,Stadium A,14,83,9,27.3,37534,4842316.02,795507.7,831255,87,9,Minor Injury,2023,25.23
+MATCH1192,23-07-2024,Tennis,Spain,Davis Cup,Rohit Sharma,"Myers, Tanner and Montoya",Stadium A,30,26,50,31.18,6567,317729.23,1563015.19,3739376,17,6,Minor Injury,2024,346.28
+MATCH1193,23-08-2024,Football,Australia,Bayern Munich,Cristiano Ronaldo,"Delgado, Lee and Willis",Stadium A,5,50,41,55.47,21880,468973.41,1695314.49,5572484,16,1,Minor Injury,2023,92.31
+MATCH1194,21-04-2025,Olympics,France,Japan Olympic Team,Rafael Nadal,"Castillo, Hernandez and Perez",Stadium A,25,174,27,33.82,33143,4542438.04,553588.63,7492830,20,1,Recovering,2025,312.32
+MATCH1195,26-02-2024,Basketball,Spain,Bulls,Rafael Nadal,Leon PLC,Stadium A,6,71,24,30.98,31143,3216836.1,1595409.89,4190005,81,17,Fit,2024,393.14
+MATCH1196,11-07-2024,Basketball,Argentina,Bulls,Stephen Curry,Moore Group,Sports Complex,33,82,24,41.63,8416,1601199.06,441945.28,4723268,8,15,Recovering,2024,385.75
+MATCH1197,13-04-2023,Cricket,England,Australia,Rohit Sharma,"Morrison, Nguyen and Marshall",National Ground,35,188,3,81.12,33758,2882703.62,1965415.95,6526648,46,5,Fit,2023,300.33
+MATCH1198,29-01-2023,Basketball,Germany,Nets,Erling Haaland,Miller and Sons,Sports Complex,10,144,12,86.94,69517,2715201.76,355235.75,646925,12,1,Fit,2025,117.22
+MATCH1199,01-01-2023,Olympics,Germany,Japan Olympic Team,Erling Haaland,"Smith, Goodwin and Mccullough",Arena B,9,87,45,34.2,47413,307184.25,299685.48,2386537,100,3,Recovering,2024,480.67
+MATCH1200,23-08-2024,Basketball,USA,Bulls,Stephen Curry,Tucker Group,National Ground,21,34,10,78.59,62261,3961294.2,1921520.89,5333132,23,17,Recovering,2025,395.63
+MATCH1201,14-04-2025,Cricket,Brazil,CSK,Novak Djokovic,"Harding, Matthews and Smith",National Ground,47,176,18,30.19,5235,4744452.64,1897652.83,6579981,99,18,Fit,2023,305.17
+MATCH1202,16-10-2024,Olympics,Japan,India Olympic Team,Cristiano Ronaldo,Herrera Inc,Olympic Park,10,84,47,26.22,50457,4912074.48,339935.4,1498575,91,20,Recovering,2024,228.85
+MATCH1203,13-09-2023,Basketball,USA,Warriors,Stephen Curry,"Cruz, Miller and Burgess",National Ground,7,184,0,23.85,62438,3665596.63,1938358.14,6956088,64,12,Minor Injury,2025,193.92
+MATCH1204,16-06-2023,Tennis,Argentina,WTA Tour,Cristiano Ronaldo,Koch Group,Stadium A,19,5,20,40.89,18726,380260,344359.88,6309138,21,2,Recovering,2023,175.6
+MATCH1205,22-12-2024,Olympics,India,Japan Olympic Team,Novak Djokovic,Coffey PLC,Arena B,39,111,10,24.28,48397,1035696.88,384018.59,9306463,93,17,Minor Injury,2025,147.95
+MATCH1206,20-02-2023,Cricket,France,India,Erling Haaland,Byrd-Webb,Sports Complex,32,39,3,48.87,61047,447265.51,1648675.13,8068573,26,3,Fit,2023,93.71
+MATCH1207,29-04-2024,Basketball,USA,Lakers,LeBron James,Martin-Allen,Olympic Park,31,125,42,41.2,89130,2725188.89,373838.03,6409588,48,5,Minor Injury,2023,139.02
+MATCH1208,20-08-2023,Tennis,Australia,Grand Slam,Erling Haaland,"Faulkner, Knox and Stevens",Stadium A,10,192,44,73.4,16233,3344024.46,1617319.41,6955543,97,18,Fit,2025,39.88
+MATCH1209,02-07-2024,Tennis,Argentina,Davis Cup,Erling Haaland,Cortez PLC,Arena B,31,76,5,51.58,98625,183295.18,1144583.77,8680757,74,19,Fit,2023,475.13
+MATCH1210,21-06-2023,Tennis,England,WTA Tour,Rohit Sharma,Perez and Sons,Arena B,3,108,5,99.06,62067,1017577.21,1646015.25,2490985,77,8,Minor Injury,2025,457.95
+MATCH1211,02-02-2024,Football,Spain,Real Madrid,Novak Djokovic,Mullins-Stewart,Sports Complex,21,70,33,56.65,6620,3934887.69,1248000.57,8777135,54,3,Minor Injury,2023,82.62
+MATCH1212,19-04-2023,Olympics,Japan,Team USA,Cristiano Ronaldo,Henderson-Vazquez,National Ground,35,88,26,41.13,90824,2433068.11,1219879.49,638569,23,8,Minor Injury,2023,312.94
+MATCH1213,10-02-2024,Tennis,Germany,ATP Tour,Rohit Sharma,"Lopez, Herman and Cooper",Stadium A,48,121,17,91.76,7651,1695951.75,1588335.86,5226863,36,15,Recovering,2025,58.13
+MATCH1214,04-11-2023,Cricket,Argentina,Australia,Stephen Curry,Butler-Richardson,National Ground,47,106,38,71.64,29633,2214165.82,1827298.45,6841185,95,15,Recovering,2024,412.3
+MATCH1215,09-03-2023,Olympics,Australia,India Olympic Team,Kylian Mbappe,Franco-Garcia,Olympic Park,9,199,33,90.35,8794,876949.41,1750985.21,3377636,8,7,Fit,2024,34.77
+MATCH1216,08-10-2023,Basketball,Germany,Warriors,Rafael Nadal,"Hardy, Wright and Moss",Sports Complex,26,162,7,74.49,36711,1868609.14,1190116.97,2989359,61,18,Recovering,2024,178.68
+MATCH1217,19-10-2023,Basketball,India,Lakers,Novak Djokovic,"Watkins, Barker and Williams",Stadium A,11,146,49,97.19,34012,3240425.66,1357002.02,4524473,84,13,Recovering,2023,433.67
+MATCH1218,16-05-2023,Football,Brazil,PSG,Erling Haaland,Salinas Ltd,Stadium A,15,64,38,84.41,45037,3566575.04,1420189.55,4630085,55,12,Minor Injury,2024,133.48
+MATCH1219,24-11-2024,Tennis,Spain,Grand Slam,Erling Haaland,"Wiggins, Reynolds and White",Olympic Park,38,26,0,60.92,91816,4832762.42,1679559.95,9429687,83,19,Recovering,2024,156.25
+MATCH1220,07-03-2023,Football,Germany,PSG,LeBron James,"Anderson, Reid and Armstrong",National Ground,18,66,41,76.89,90389,1500967.65,304108.95,4041599,8,19,Minor Injury,2025,166.6
+MATCH1221,02-11-2024,Cricket,Argentina,India,LeBron James,Sullivan PLC,National Ground,27,103,24,78.94,81418,3543264.11,1146224.66,3196247,44,7,Recovering,2025,322.77
+MATCH1222,03-06-2024,Tennis,Australia,Grand Slam,Virat Kohli,"Williams, Olsen and Walters",Sports Complex,12,75,6,57.66,38902,3628681.32,1120268.15,3081377,88,10,Recovering,2023,118.9
+MATCH1223,06-03-2024,Cricket,Germany,England,Stephen Curry,Johnson Group,National Ground,38,75,29,88.1,66674,277848,1270621.5,9746038,80,2,Minor Injury,2023,255.23
+MATCH1224,28-02-2024,Tennis,India,Grand Slam,Virat Kohli,Burns PLC,Arena B,13,87,26,98.98,64974,724688.52,1725475.92,3035884,100,2,Minor Injury,2024,319.21
+MATCH1225,11-10-2024,Cricket,India,England,Lionel Messi,Perry Inc,Olympic Park,18,53,48,81.88,80534,3824773.84,981706.3,1487088,17,19,Minor Injury,2025,220.41
+MATCH1226,28-01-2024,Tennis,India,Davis Cup,Lionel Messi,Frye-Navarro,Sports Complex,13,187,23,96.01,47233,3786670.21,1064412.4,310582,87,0,Recovering,2025,131.92
+MATCH1227,13-05-2023,Basketball,USA,Celtics,Novak Djokovic,"Carter, Davis and Cox",Sports Complex,38,78,10,25.22,10992,1498029.24,585201.44,8738991,77,16,Minor Injury,2024,445.11
+MATCH1228,16-05-2024,Cricket,Germany,England,Rohit Sharma,Campbell Inc,Arena B,26,4,14,37.95,22197,1063839.24,48716.98,8476346,22,3,Minor Injury,2025,328.76
+MATCH1229,16-06-2025,Football,Australia,PSG,Kylian Mbappe,Thomas-Navarro,Sports Complex,4,152,3,72.96,90664,4182238.85,101228.94,1952630,54,14,Minor Injury,2023,278.17
+MATCH1230,30-07-2023,Tennis,India,WTA Tour,LeBron James,"Kennedy, Mitchell and Harmon",Olympic Park,43,25,42,61.62,86631,3032115.34,278641.23,1770168,66,19,Fit,2024,65.87
+MATCH1231,23-07-2023,Football,Japan,PSG,Rohit Sharma,"Thomas, Obrien and Miller",National Ground,34,51,22,76.27,43712,810264.26,1098536.83,3494526,89,15,Minor Injury,2023,11.34
+MATCH1232,05-05-2025,Football,Japan,Real Madrid,Rafael Nadal,Johnson-Bryan,Arena B,6,199,32,26,99840,515439.49,515504.74,3888226,59,9,Minor Injury,2024,34.54
+MATCH1233,22-05-2025,Cricket,Australia,India,Stephen Curry,Buck-Blanchard,National Ground,28,189,7,27.6,11014,58264.92,281096.91,2870721,43,11,Minor Injury,2025,141.47
+MATCH1234,14-04-2025,Football,Germany,Manchester City,Virat Kohli,"Rodriguez, Daniels and Roth",Stadium A,26,102,29,41.75,55556,3452613.13,959098.8,7085620,84,5,Fit,2023,351.12
+MATCH1235,17-04-2023,Football,France,Barcelona,Erling Haaland,"Peters, Anderson and Rogers",Olympic Park,37,173,28,34.5,54774,3898029.83,1224660.05,2202032,62,15,Fit,2024,225.94
+MATCH1236,01-11-2024,Football,Germany,Manchester City,Lionel Messi,Harris LLC,Sports Complex,50,190,36,77.9,34358,4889698.83,1341339.49,5685742,67,16,Recovering,2025,312.94
+MATCH1237,08-05-2024,Tennis,Germany,WTA Tour,Novak Djokovic,Barnes-Dunn,Arena B,36,156,3,20.93,25568,2532782.18,941231.43,8328729,22,2,Minor Injury,2024,128.04
+MATCH1238,03-06-2024,Basketball,England,Lakers,Kylian Mbappe,"Yu, Harmon and Murray",Olympic Park,26,60,5,56.73,80108,2246011.94,1713895.5,7510558,41,3,Minor Injury,2025,330.15
+MATCH1239,27-02-2024,Football,India,PSG,Kylian Mbappe,"Petty, Hill and Palmer",Sports Complex,1,23,50,68.34,86142,3191315.23,1780771.24,9444375,27,20,Recovering,2024,475.67
+MATCH1240,16-04-2025,Basketball,England,Lakers,Rafael Nadal,Morgan-Garcia,National Ground,36,196,39,68,98933,3289264.36,1433247.43,1922994,13,7,Fit,2024,184.02
+MATCH1241,18-06-2024,Basketball,Germany,Nets,Cristiano Ronaldo,Johnson-Sweeney,Stadium A,11,126,8,85.75,99576,2051961.68,512307.18,3297016,25,3,Minor Injury,2023,233.95
+MATCH1242,21-04-2023,Cricket,France,England,Lionel Messi,"Nunez, Adams and Gray",Sports Complex,8,197,28,56.59,82242,4781389.7,273598.85,8378955,1,16,Recovering,2023,281.08
+MATCH1243,04-06-2024,Tennis,Brazil,Davis Cup,Erling Haaland,"Cooper, Reese and Cochran",Arena B,47,32,6,50.99,83714,3034742.26,647078.31,6463568,54,19,Recovering,2023,144.06
+MATCH1244,08-04-2024,Basketball,Brazil,Celtics,Virat Kohli,Harmon PLC,Olympic Park,39,179,47,60.98,96946,2743551.8,631252.04,9297557,81,6,Fit,2023,315.84
+MATCH1245,19-11-2024,Basketball,Brazil,Celtics,Virat Kohli,Rodriguez-Brady,Sports Complex,35,177,40,45.79,20126,3806267.37,1126749.02,9787866,74,13,Recovering,2025,447.99
+MATCH1246,17-06-2025,Olympics,France,China Olympic Team,Lionel Messi,Patterson LLC,Sports Complex,7,6,24,31.63,92851,292457.82,537621.65,2710047,37,8,Fit,2023,348.39
+MATCH1247,10-02-2025,Basketball,Spain,Warriors,Lionel Messi,Johnson LLC,National Ground,29,26,39,89.44,78647,4325559.01,1486113.41,9426557,50,7,Recovering,2025,150.94
+MATCH1248,01-02-2024,Football,France,PSG,Stephen Curry,"Fisher, Manning and Peterson",Sports Complex,4,3,47,40.11,86338,4345561.31,1721587.25,7443377,29,20,Recovering,2025,327.34
+MATCH1249,05-03-2025,Olympics,England,India Olympic Team,LeBron James,Dennis LLC,Olympic Park,12,174,4,34.96,27779,3678046.64,243110.85,691729,55,8,Recovering,2024,73.73
+MATCH1250,06-01-2023,Olympics,Germany,China Olympic Team,Rafael Nadal,"Cannon, Roberts and Wood",Arena B,3,39,20,67.75,86968,3081887.29,1325470.97,8240079,74,17,Minor Injury,2023,394.18
+MATCH1251,14-08-2023,Basketball,Brazil,Nets,Kylian Mbappe,"Patterson, Parker and Mason",Stadium A,33,40,26,63.45,57876,468808.31,446290.17,3589482,85,10,Minor Injury,2024,153.85
+MATCH1252,28-07-2024,Olympics,India,Japan Olympic Team,Cristiano Ronaldo,"Mathis, Long and Howard",National Ground,29,61,41,69.1,86412,1226697.55,84555.11,5394429,49,3,Minor Injury,2024,274.72
+MATCH1253,13-06-2024,Basketball,Germany,Lakers,Kylian Mbappe,"Jones, Scott and Melton",Sports Complex,29,124,2,43.71,90397,970636.82,1030219.93,1619881,22,17,Recovering,2023,317.2
+MATCH1254,04-06-2025,Cricket,France,Australia,Cristiano Ronaldo,"Smith, Mendez and Little",Arena B,35,179,47,82.02,89746,4085604.2,148880.38,2589573,4,14,Recovering,2024,28.56
+MATCH1255,02-07-2023,Football,Australia,Real Madrid,Kylian Mbappe,Welch LLC,Stadium A,37,58,16,52.61,64129,3154784.15,868884.94,293383,50,3,Recovering,2023,324.3
+MATCH1256,13-02-2025,Olympics,Japan,Team USA,Lionel Messi,Miller Ltd,Stadium A,23,128,6,43.19,94899,1513740.04,177577.92,7352987,49,12,Recovering,2023,242.25
+MATCH1257,20-05-2023,Olympics,France,India Olympic Team,Kylian Mbappe,"Chapman, Ward and Young",National Ground,41,36,19,74.18,89926,1871921.27,1899182.88,9296594,72,4,Fit,2023,12.46
+MATCH1258,04-07-2024,Olympics,Spain,Japan Olympic Team,Cristiano Ronaldo,Scott Inc,National Ground,14,191,47,92.28,50069,1066567.35,1811727.92,8609207,19,5,Fit,2023,312.27
+MATCH1259,28-04-2023,Basketball,Brazil,Warriors,Erling Haaland,Hart-Martin,Stadium A,49,140,29,71.57,14587,1460356.81,139388.7,1657562,26,18,Minor Injury,2024,185
+MATCH1260,19-10-2023,Cricket,Japan,India,Cristiano Ronaldo,Parker-Brewer,Arena B,21,124,28,46.27,91431,1535320.69,1170419.02,9498388,73,11,Minor Injury,2024,92.63
+MATCH1261,15-03-2025,Basketball,England,Warriors,Novak Djokovic,Barry-Miles,National Ground,24,34,43,78.64,67908,2319613.4,720689.5,5134966,63,17,Fit,2023,326.32
+MATCH1262,29-05-2025,Football,Brazil,Manchester City,Kylian Mbappe,Henry LLC,Arena B,17,187,40,26.12,14882,4461604.87,1699926.61,533352,75,18,Minor Injury,2025,114.25
+MATCH1263,24-09-2023,Football,Spain,Bayern Munich,Kylian Mbappe,"Fitzgerald, Roberts and Gaines",Olympic Park,42,198,9,49.27,34269,4458273.34,1181253.51,4892155,18,14,Recovering,2025,54.37
+MATCH1264,11-01-2023,Basketball,England,Nets,Erling Haaland,"Poole, Harris and Russell",Arena B,49,131,8,55.7,28480,2836122.7,1133796,2462813,95,15,Minor Injury,2023,117.22
+MATCH1265,06-03-2023,Tennis,Australia,WTA Tour,Stephen Curry,Carpenter-Gentry,Arena B,3,171,13,61.43,52349,1946584.62,1836214.38,789091,6,20,Minor Injury,2023,354.83
+MATCH1266,04-05-2025,Olympics,Australia,China Olympic Team,Erling Haaland,Mills LLC,Sports Complex,37,44,24,72.29,52880,2942517.34,1796962.1,1315896,67,8,Minor Injury,2023,263.02
+MATCH1267,13-05-2024,Basketball,Argentina,Celtics,Erling Haaland,York Ltd,Stadium A,33,35,28,33.25,15104,2577560.95,565214.97,2530615,24,5,Minor Injury,2025,361.48
+MATCH1268,29-02-2024,Football,Germany,Barcelona,Cristiano Ronaldo,Newman Inc,Olympic Park,44,122,30,36.86,26134,3239823.58,824743.92,4098109,6,4,Recovering,2025,88.95
+MATCH1269,09-08-2024,Olympics,Brazil,Team USA,Lionel Messi,Smith Ltd,Arena B,17,46,33,96.66,83558,4846526,1277057.3,4765579,11,6,Minor Injury,2025,496.46
+MATCH1270,13-08-2023,Tennis,France,WTA Tour,Erling Haaland,Stokes LLC,Arena B,38,196,11,69.86,71952,1329958.29,1449752.66,5759069,59,19,Recovering,2023,122.61
+MATCH1271,22-04-2023,Tennis,India,WTA Tour,Rohit Sharma,Jones-James,Sports Complex,33,175,26,86.12,84365,490529.9,954359.03,664924,69,16,Fit,2023,246.3
+MATCH1272,06-07-2024,Cricket,India,CSK,Novak Djokovic,Contreras PLC,Sports Complex,27,94,2,75.81,61224,1155136.42,1605588.89,6406087,45,18,Recovering,2025,292.3
+MATCH1273,18-09-2023,Tennis,Argentina,WTA Tour,Rohit Sharma,"Chambers, Stephens and Rodriguez",Stadium A,19,153,34,52.69,29775,37292.58,1488573.13,129354,74,16,Fit,2025,13.53
+MATCH1274,23-02-2024,Cricket,Germany,England,Cristiano Ronaldo,Conner PLC,Arena B,28,166,37,40.29,75268,2123572.12,734459.97,4633138,88,12,Fit,2024,280.53
+MATCH1275,03-07-2023,Olympics,Germany,Japan Olympic Team,Kylian Mbappe,"Johnston, Bates and Clark",Sports Complex,31,64,19,66.21,97470,1996667.46,280446.69,2007927,96,7,Minor Injury,2025,475.13
+MATCH1276,04-06-2024,Football,France,Barcelona,Stephen Curry,Rogers and Sons,Sports Complex,40,178,43,76.54,26068,1951627.37,1273573.85,1538212,19,15,Recovering,2024,53.19
+MATCH1277,15-01-2024,Basketball,USA,Warriors,Erling Haaland,Paul-Mendez,Stadium A,47,98,25,69.12,73289,1439481.48,1927242,974069,100,5,Recovering,2024,225.1
+MATCH1278,20-10-2023,Cricket,England,CSK,Lionel Messi,"Jackson, Ford and May",Sports Complex,33,132,44,38.53,27214,3373381.66,722681.3,14819,21,2,Minor Injury,2024,183.03
+MATCH1279,23-08-2024,Tennis,England,Davis Cup,Kylian Mbappe,Andrade-Dunn,Stadium A,48,180,4,93.53,77036,1429624,1660380.78,9789983,45,11,Minor Injury,2023,307.12
+MATCH1280,18-02-2024,Cricket,Japan,Pakistan,Lionel Messi,Scott-Lewis,National Ground,12,104,32,28.52,14487,2520814.14,683231.96,1973085,66,8,Recovering,2025,132.57
+MATCH1281,30-07-2024,Tennis,Argentina,Davis Cup,Rohit Sharma,Carlson Ltd,National Ground,50,117,43,56.86,81916,4311496.16,966530.47,4335497,9,12,Recovering,2023,341.69
+MATCH1282,27-02-2024,Cricket,Germany,England,Kylian Mbappe,"Coleman, Hernandez and Callahan",Sports Complex,1,179,16,39.86,17190,2000663.88,1498832.32,5747688,10,17,Fit,2024,163.8
+MATCH1283,03-10-2023,Cricket,Brazil,CSK,Rohit Sharma,Duncan Ltd,Olympic Park,48,51,15,78.83,39787,1041825.38,409519.28,4199194,80,11,Fit,2023,68.74
+MATCH1284,20-09-2024,Football,India,PSG,Kylian Mbappe,"Tucker, Coleman and Jones",Stadium A,31,95,39,45.23,80303,4345156.49,984156.68,8585399,36,12,Fit,2025,72.84
+MATCH1285,04-05-2024,Olympics,Spain,Japan Olympic Team,Lionel Messi,Preston-Richardson,Sports Complex,23,100,43,82.07,64925,4882770.9,1397997.91,7728703,41,0,Fit,2025,113.27
+MATCH1286,30-11-2023,Olympics,Germany,Team USA,Erling Haaland,Chung and Sons,National Ground,12,140,16,38.97,66780,4793048.82,689477.44,3095559,64,13,Fit,2024,353.35
+MATCH1287,24-05-2025,Basketball,France,Celtics,LeBron James,Little Ltd,Olympic Park,12,146,8,98.34,94916,1150548.08,204240.13,4538994,31,17,Minor Injury,2024,106.07
+MATCH1288,05-04-2025,Cricket,India,Pakistan,Virat Kohli,Alvarez-Brown,Olympic Park,32,34,40,61.36,99445,1585478.96,975807.29,4220645,72,18,Fit,2024,58.5
+MATCH1289,09-08-2023,Cricket,Australia,India,Rafael Nadal,Morrison-Lee,Stadium A,29,190,21,40.78,52226,2806146.67,1864029.93,4333737,45,0,Minor Injury,2023,182.03
+MATCH1290,13-08-2024,Olympics,Japan,India Olympic Team,Kylian Mbappe,Morgan-Dean,Arena B,50,72,22,46.01,71904,2442593.78,1474369.7,1325459,49,19,Minor Injury,2024,319.54
+MATCH1291,17-10-2024,Cricket,Germany,Australia,Novak Djokovic,Brown Inc,Sports Complex,37,103,4,26.33,50039,1148807.52,637172.09,4898148,91,8,Recovering,2025,203.77
+MATCH1292,04-02-2025,Tennis,Japan,Grand Slam,Kylian Mbappe,Lopez-Castillo,Olympic Park,27,42,11,88.34,21389,3641584.36,1325734.98,1353263,27,5,Minor Injury,2023,56.82
+MATCH1293,27-01-2023,Tennis,France,ATP Tour,Kylian Mbappe,Harvey and Sons,Stadium A,7,67,39,32.42,90830,4658632.01,782743.18,3857954,32,9,Minor Injury,2025,71.94
+MATCH1294,30-01-2023,Olympics,India,India Olympic Team,Stephen Curry,Davis Ltd,National Ground,31,119,34,94.79,76898,2229776.21,1939236.82,9057744,23,18,Recovering,2024,319.21
+MATCH1295,20-06-2024,Olympics,Spain,Japan Olympic Team,LeBron James,Simpson LLC,National Ground,31,138,14,84.38,62915,1546262.25,827346.59,2622506,39,0,Fit,2025,409.54
+MATCH1296,21-10-2023,Cricket,Argentina,England,Kylian Mbappe,Wilkins-Caldwell,Stadium A,45,125,48,58.17,6197,3831687.33,1596939.73,3889150,1,17,Minor Injury,2023,211.75
+MATCH1297,09-02-2024,Olympics,England,Japan Olympic Team,Virat Kohli,"Santiago, Wilson and Carter",Olympic Park,25,56,16,26.34,86962,1205413.46,1530253.9,4571139,37,20,Recovering,2025,406.32
+MATCH1298,23-05-2025,Tennis,USA,WTA Tour,Virat Kohli,Jones-Montoya,Arena B,19,28,40,56.43,64345,1367949.31,1247393.79,3160584,42,0,Fit,2023,485.16
+MATCH1299,15-04-2023,Football,Australia,Barcelona,LeBron James,"Gutierrez, Dunlap and Murillo",Arena B,46,112,46,20.66,16822,761911.63,989691.21,5746345,54,9,Minor Injury,2024,237.21
+MATCH1300,24-03-2023,Football,Brazil,Manchester City,Lionel Messi,Mckinney-Boyd,National Ground,50,100,4,63.46,28803,969039.54,1683870.88,6411806,2,3,Recovering,2023,198.55
+MATCH1301,25-01-2025,Tennis,India,WTA Tour,Rohit Sharma,"Gonzalez, Peterson and Rivera",Olympic Park,48,197,6,61.69,32321,2369399.47,1364477.43,5246326,42,5,Recovering,2025,30.67
+MATCH1302,17-09-2023,Olympics,Argentina,Team USA,LeBron James,Mitchell Ltd,Arena B,24,13,42,37.42,19801,1187469.53,871152.49,262794,22,8,Recovering,2023,203.95
+MATCH1303,13-02-2023,Cricket,Japan,India,Rafael Nadal,Wu PLC,Sports Complex,10,95,49,27.16,25669,2504596.84,1373459.56,5687780,98,20,Fit,2023,184.2
+MATCH1304,21-03-2025,Cricket,USA,CSK,Virat Kohli,Robinson Inc,Olympic Park,15,81,35,83.08,50523,4029571.63,880244.2,3247420,3,12,Minor Injury,2025,76.02
+MATCH1305,24-12-2024,Football,Argentina,PSG,Kylian Mbappe,Parker-Rice,National Ground,35,178,31,35.18,29461,2722666.52,650743.35,7868359,36,19,Recovering,2023,43.75
+MATCH1306,30-10-2023,Cricket,Australia,Pakistan,Kylian Mbappe,Powers PLC,National Ground,30,0,49,71.04,54681,3670952.13,1766450.08,6118168,100,19,Fit,2024,363.29
+MATCH1307,14-07-2023,Olympics,Spain,Japan Olympic Team,Rafael Nadal,Jackson-Walker,Sports Complex,10,156,18,45.81,89004,1616900.04,197031.31,1128702,6,4,Fit,2023,109.02
+MATCH1308,12-04-2023,Tennis,India,WTA Tour,Erling Haaland,Harper and Sons,Olympic Park,43,125,33,69.92,82371,1287133.27,735876.27,1199067,2,6,Recovering,2024,464.92
+MATCH1309,31-03-2025,Football,India,PSG,Stephen Curry,Johnson and Sons,Sports Complex,48,106,23,83.54,12641,4119978.4,535302.19,692046,94,2,Minor Injury,2023,472.86
+MATCH1310,14-04-2023,Olympics,England,Team USA,Kylian Mbappe,Jensen-Harrison,Olympic Park,13,49,33,72.55,79714,3130372.02,361901.29,9374062,54,3,Recovering,2025,185.4
+MATCH1311,17-04-2023,Tennis,Brazil,Davis Cup,Virat Kohli,Mckenzie LLC,Sports Complex,26,129,21,72.6,74979,4992183.52,888809.28,5921017,41,17,Minor Injury,2024,212.05
+MATCH1312,15-09-2024,Tennis,England,Grand Slam,Erling Haaland,Aguilar Inc,Sports Complex,14,96,49,64.02,38303,1806442.64,907544.93,6672074,1,1,Minor Injury,2025,17.99
+MATCH1313,07-01-2023,Cricket,Australia,England,Rohit Sharma,"Nash, Juarez and Anderson",Arena B,21,5,49,85.76,95402,4113463.92,1838628.61,8587712,72,18,Recovering,2023,56.2
+MATCH1314,09-06-2023,Tennis,Brazil,Grand Slam,LeBron James,Banks-Grimes,National Ground,38,63,14,40.5,44361,468606.56,802597.51,3657992,94,2,Recovering,2024,398.52
+MATCH1315,25-04-2025,Cricket,Japan,Pakistan,Cristiano Ronaldo,Stevens Ltd,Sports Complex,42,76,2,78.46,80534,1913915.09,1561343.21,5620127,45,13,Minor Injury,2023,436.2
+MATCH1316,12-01-2023,Cricket,France,CSK,Lionel Messi,Hoffman and Sons,National Ground,34,10,20,63.19,24605,1640889.82,1397048.46,2580227,7,12,Minor Injury,2025,291.87
+MATCH1317,18-03-2024,Football,Australia,Barcelona,Novak Djokovic,Williams and Sons,Arena B,9,86,5,58.07,11463,2745280.5,528803.16,6696174,65,13,Recovering,2023,383.4
+MATCH1318,14-05-2024,Tennis,France,WTA Tour,Erling Haaland,"Chapman, Robinson and Kennedy",Arena B,36,157,47,61.94,36760,367503.46,1554659.94,5435946,88,18,Fit,2023,339.16
+MATCH1319,23-12-2023,Tennis,England,Grand Slam,Stephen Curry,Harrington LLC,National Ground,39,167,1,81.57,27184,4938383.07,1234360.88,7429054,80,4,Minor Injury,2023,462.86
+MATCH1320,02-12-2024,Cricket,Germany,Australia,Virat Kohli,"Gonzalez, Rasmussen and Calderon",Stadium A,8,189,3,39.44,86396,4634381.18,1738160.94,4836554,2,10,Recovering,2023,159.51
+MATCH1321,06-12-2023,Tennis,England,ATP Tour,Kylian Mbappe,Taylor Inc,Arena B,14,139,33,80.03,76932,2420301.39,1461197.55,2381416,89,0,Minor Injury,2025,453.96
+MATCH1322,19-09-2023,Olympics,Brazil,Team USA,Lionel Messi,"Harrison, Medina and Smith",National Ground,13,178,39,41.7,65943,3277241.78,21626.68,6530383,85,8,Recovering,2025,186.51
+MATCH1323,27-10-2023,Football,France,Real Madrid,Rohit Sharma,Duran Group,Olympic Park,33,181,6,92.31,68525,4335196,1065463.49,3137564,26,16,Minor Injury,2025,463.91
+MATCH1324,11-09-2023,Football,Spain,Real Madrid,LeBron James,"Murphy, Thomas and Adams",National Ground,32,100,47,32.56,50453,3424713.66,713979.38,5082192,31,16,Minor Injury,2023,316.64
+MATCH1325,22-07-2024,Tennis,Australia,ATP Tour,Rohit Sharma,"Casey, Mccall and Lin",Arena B,22,100,42,30.98,55096,2608382.04,1357599.82,3825608,54,7,Recovering,2023,218.97
+MATCH1326,04-12-2023,Basketball,Argentina,Nets,Kylian Mbappe,Davis and Sons,Arena B,14,167,8,66.48,94659,4002524.25,1725862.38,5194132,89,16,Fit,2024,497.89
+MATCH1327,11-06-2023,Cricket,Germany,CSK,Cristiano Ronaldo,"Mathews, Gonzalez and Johnson",Sports Complex,35,184,7,34.73,24073,3638126.87,1532042.85,6956441,53,9,Minor Injury,2025,467.55
+MATCH1328,08-03-2025,Basketball,England,Warriors,Cristiano Ronaldo,"Bennett, James and Gomez",Arena B,12,6,48,98.88,85864,1341644.44,1136250.97,3884049,77,7,Fit,2025,22.78
+MATCH1329,18-05-2023,Football,Spain,PSG,Erling Haaland,Gonzalez Ltd,Olympic Park,46,166,23,34.72,55785,2462313.53,279337.88,3252361,29,1,Minor Injury,2023,463.46
+MATCH1330,30-01-2025,Tennis,England,WTA Tour,Rohit Sharma,Townsend PLC,Stadium A,12,112,39,59.2,47584,4335206.78,1775735.9,7183194,52,1,Recovering,2025,413.92
+MATCH1331,18-09-2024,Basketball,Japan,Bulls,Erling Haaland,Smith PLC,Sports Complex,34,164,45,82.95,73242,555488.3,916516.35,721620,32,16,Recovering,2024,492.08
+MATCH1332,01-02-2024,Football,Spain,Bayern Munich,Lionel Messi,Scott-Walters,Arena B,19,112,25,90.75,42475,2312122.35,847812.05,925141,89,16,Fit,2024,416.65
+MATCH1333,09-01-2025,Tennis,Spain,ATP Tour,Cristiano Ronaldo,Mcdonald-Martin,Arena B,50,149,44,63.71,56520,2073660.93,904517.28,3011084,59,18,Recovering,2023,442.45
+MATCH1334,28-11-2023,Football,Brazil,Manchester City,Cristiano Ronaldo,Lee LLC,Stadium A,8,180,28,70.73,16181,2623848.36,771254.31,8594338,79,5,Minor Injury,2025,196.5
+MATCH1335,02-08-2024,Cricket,Brazil,England,Virat Kohli,"Stark, Charles and Stein",Arena B,12,196,45,24.1,45378,1554496.34,1538417.69,7496970,37,20,Fit,2023,450.29
+MATCH1336,29-09-2024,Cricket,Australia,India,Lionel Messi,Davis and Sons,Olympic Park,32,127,34,84.6,84689,4414687.57,479567.32,9889470,85,15,Minor Injury,2024,226.52
+MATCH1337,08-09-2023,Olympics,Spain,Team USA,LeBron James,Hill-Koch,Sports Complex,41,142,13,23.91,24432,284769.05,701294.57,2448977,5,18,Recovering,2024,172.24
+MATCH1338,22-04-2023,Football,France,Real Madrid,Virat Kohli,Campbell PLC,Arena B,44,72,39,72.87,96730,2978895.24,1575678.62,2986601,59,18,Minor Injury,2023,55.63
+MATCH1339,13-01-2024,Basketball,France,Celtics,Cristiano Ronaldo,Hicks-Garcia,Olympic Park,36,16,18,57.67,20993,3476151,552464.99,8852477,53,16,Fit,2025,112.43
+MATCH1340,08-08-2024,Football,Spain,Real Madrid,Cristiano Ronaldo,Cruz-Nelson,Olympic Park,47,176,38,94.71,97642,1443064.65,1219644.99,5319796,34,16,Recovering,2025,183.39
+MATCH1341,30-07-2024,Cricket,Argentina,CSK,Kylian Mbappe,Brooks Group,Olympic Park,32,46,39,38.62,43074,4896495.72,8153.93,412431,60,20,Fit,2025,425.55
+MATCH1342,28-02-2024,Olympics,India,Japan Olympic Team,Stephen Curry,"Sanchez, Sweeney and Maynard",National Ground,36,163,13,20.9,31370,3453185.14,512562.96,1148100,40,9,Recovering,2025,168.72
+MATCH1343,03-12-2024,Football,Germany,Real Madrid,Stephen Curry,Peterson Group,Olympic Park,47,145,39,96.81,28020,978137.74,1668481.47,8048102,61,1,Recovering,2023,245.93
+MATCH1344,18-04-2024,Tennis,France,Grand Slam,Lionel Messi,"Cruz, Velez and Wallace",Sports Complex,20,144,46,74.26,77768,2684068.52,420483.63,5575326,46,2,Fit,2024,421.96
+MATCH1345,03-10-2024,Basketball,Spain,Bulls,Virat Kohli,Walker PLC,Sports Complex,39,99,11,67.62,45407,3529278.26,632426.3,540633,35,13,Fit,2024,439.75
+MATCH1346,29-04-2025,Basketball,Australia,Bulls,Rohit Sharma,Washington-Ward,Sports Complex,20,44,7,49.94,9901,3891174.05,1827140.92,7455293,65,0,Minor Injury,2025,85.5
+MATCH1347,20-01-2025,Basketball,Spain,Bulls,LeBron James,Cooper-Hunter,National Ground,10,196,6,85.77,72652,3386819.27,269770.73,623249,59,12,Recovering,2025,66.76
+MATCH1348,04-12-2024,Basketball,Japan,Lakers,Cristiano Ronaldo,"Simon, Trujillo and Parker",National Ground,30,11,6,61.65,91374,3730318.08,49848.12,5246888,82,6,Minor Injury,2023,104.35
+MATCH1349,23-11-2023,Basketball,Argentina,Nets,Cristiano Ronaldo,"Morris, Austin and Thompson",National Ground,10,40,17,29.16,86650,2802532.56,209238.71,9112121,45,17,Minor Injury,2024,79.36
+MATCH1350,08-09-2023,Basketball,Brazil,Nets,Cristiano Ronaldo,"Larson, Robinson and Jones",National Ground,40,86,34,55.49,22049,154673.5,1807068.35,856511,14,12,Fit,2023,218.97
+MATCH1351,29-08-2024,Cricket,Argentina,CSK,Erling Haaland,Shaw-Palmer,National Ground,20,85,12,77.03,92932,4048406.12,161698.49,7823071,73,4,Fit,2025,239.46
+MATCH1352,01-12-2024,Tennis,Argentina,Grand Slam,Rafael Nadal,Moore PLC,Arena B,15,36,39,40.64,52638,1966463.82,1400731.17,5551983,42,14,Minor Injury,2023,42.03
+MATCH1353,05-05-2024,Football,Argentina,Manchester City,Virat Kohli,Garcia LLC,National Ground,50,89,38,65.97,71577,523631.73,1636018.02,1804848,42,17,Recovering,2023,398.29
+MATCH1354,15-02-2024,Olympics,Japan,Japan Olympic Team,Novak Djokovic,Schmidt-Smith,Arena B,40,62,35,32.72,68225,1925244.13,684724.75,9924834,56,13,Recovering,2024,276.82
+MATCH1355,09-11-2024,Cricket,USA,Australia,Erling Haaland,"Morgan, Chen and Roth",Olympic Park,8,151,38,57.03,77756,497293.01,893206.38,5177981,52,2,Recovering,2023,345.9
+MATCH1356,02-12-2023,Olympics,Argentina,Japan Olympic Team,Lionel Messi,Garcia-Grimes,Stadium A,14,35,37,92.26,88379,4051098.45,1515370.05,2513436,58,17,Minor Injury,2024,311.63
+MATCH1357,30-07-2023,Tennis,Germany,WTA Tour,LeBron James,Miller Group,Sports Complex,44,77,27,77.42,50123,4951543.39,1167540.32,8573491,52,4,Minor Injury,2023,190.92
+MATCH1358,01-01-2023,Olympics,Spain,Team USA,Stephen Curry,Davis-Davis,Stadium A,19,7,15,54.54,82353,1977398.94,639663.98,6432144,52,12,Minor Injury,2025,113.5
+MATCH1359,23-05-2023,Cricket,England,Pakistan,Kylian Mbappe,Clayton-Brown,Olympic Park,24,106,9,43.08,92826,636490.28,28147.49,273533,19,15,Recovering,2024,487.74
+MATCH1360,21-05-2023,Cricket,France,India,Rafael Nadal,Henderson-Henry,Sports Complex,28,159,11,56.35,60590,2764729.65,902841.31,5971066,29,5,Minor Injury,2025,13.64
+MATCH1361,30-12-2024,Tennis,Spain,WTA Tour,LeBron James,Romero Group,Olympic Park,35,147,23,22.68,9963,2845066.39,1411240.67,1908583,75,15,Recovering,2023,79.62
+MATCH1362,21-04-2024,Olympics,Spain,China Olympic Team,Cristiano Ronaldo,Mitchell-Morrison,Sports Complex,40,22,15,57.8,91997,4802451.12,160773.43,9056228,75,9,Recovering,2023,452.76
+MATCH1363,25-04-2024,Olympics,Argentina,Team USA,Kylian Mbappe,"Warren, Weber and Cook",Olympic Park,37,187,21,53.68,43616,1453150.13,75475.85,5111462,94,18,Minor Injury,2023,318.36
+MATCH1364,09-08-2024,Olympics,India,India Olympic Team,LeBron James,"Nelson, Sanchez and Jackson",Sports Complex,2,73,31,26.6,71269,393542.68,1568606.83,4238713,17,19,Minor Injury,2024,430.35
+MATCH1365,10-09-2024,Football,Brazil,Real Madrid,Erling Haaland,Thomas-Cain,Arena B,43,114,23,84.63,39242,3914813.25,476210.78,3043474,68,1,Minor Injury,2023,484
+MATCH1366,07-05-2025,Olympics,Argentina,India Olympic Team,Novak Djokovic,Rivers-Sharp,Olympic Park,16,169,28,78.08,26926,1062175.17,1470050.42,5799409,7,20,Minor Injury,2023,35.74
+MATCH1367,02-05-2024,Tennis,Australia,Davis Cup,Rafael Nadal,Thornton LLC,Sports Complex,15,97,43,76.45,67205,1320499.51,1063232.05,7303631,2,9,Minor Injury,2024,342.46
+MATCH1368,10-04-2023,Olympics,Spain,Team USA,Stephen Curry,Reed-Douglas,Olympic Park,40,166,17,46.8,40007,4013558.64,514411.12,9810860,51,14,Recovering,2025,128.48
+MATCH1369,16-06-2024,Olympics,Germany,India Olympic Team,Virat Kohli,Mason-Williamson,National Ground,36,2,43,20.68,13906,69687.44,199909.03,1753274,88,14,Minor Injury,2023,365.37
+MATCH1370,04-02-2023,Basketball,India,Warriors,Erling Haaland,Diaz-Jackson,Stadium A,4,152,42,91.52,33419,4752939.91,1277975.36,2022881,12,19,Fit,2024,331.63
+MATCH1371,24-04-2023,Olympics,Brazil,India Olympic Team,LeBron James,Carter and Sons,National Ground,30,169,4,71.1,41226,3849102.06,1385981.88,5435820,33,5,Fit,2024,390.78
+MATCH1372,07-12-2023,Tennis,India,Davis Cup,LeBron James,"Ortiz, Watson and Mccormick",National Ground,12,112,4,59.34,31302,3055406.41,360992.13,8265351,14,4,Recovering,2024,117.01
+MATCH1373,02-01-2025,Football,Australia,PSG,Cristiano Ronaldo,Mcdonald-Hudson,Stadium A,5,18,36,78.2,63442,103636.32,997914.25,24556,5,12,Minor Injury,2023,353.03
+MATCH1374,11-06-2024,Tennis,Argentina,ATP Tour,Rafael Nadal,"Nash, Evans and Hester",Olympic Park,26,186,49,84.98,14188,2705242.3,11598.18,8097731,16,18,Recovering,2024,173.39
+MATCH1375,26-02-2023,Basketball,USA,Bulls,Stephen Curry,Gilmore-Scott,Sports Complex,22,20,29,80.84,43005,3242484.93,357353.52,669867,50,6,Minor Injury,2025,201.15
+MATCH1376,13-05-2024,Football,USA,Manchester City,Rafael Nadal,Lopez LLC,Arena B,9,9,12,22.03,82718,1200040.81,780591.23,9078958,83,9,Minor Injury,2025,482.83
+MATCH1377,07-02-2023,Tennis,Germany,ATP Tour,Lionel Messi,Downs-Ferguson,National Ground,47,10,25,29.45,90701,3339908.93,919448.88,9012006,20,18,Fit,2023,28.07
+MATCH1378,31-10-2024,Cricket,India,Pakistan,Rafael Nadal,Clayton-Maynard,Sports Complex,3,62,44,71.9,6882,869522.55,104666.2,5166264,13,14,Recovering,2023,419.32
+MATCH1379,27-04-2023,Football,Argentina,Real Madrid,Erling Haaland,"Beasley, Camacho and Lester",Sports Complex,15,16,12,54.1,93918,2016022.97,246000.87,9673122,70,4,Minor Injury,2023,384.47
+MATCH1380,10-12-2023,Olympics,USA,India Olympic Team,Cristiano Ronaldo,Robles-Barnes,National Ground,10,193,26,33.44,53487,2771504.57,880129.12,9774101,6,4,Fit,2025,310.1
+MATCH1381,19-06-2025,Cricket,Argentina,India,Cristiano Ronaldo,"Russell, Wright and Ali",Stadium A,1,45,5,76.54,82821,4435706.56,835363.37,7996164,89,4,Fit,2023,323.51
+MATCH1382,26-02-2024,Olympics,England,Japan Olympic Team,Virat Kohli,"Morrison, Scott and Hampton",Sports Complex,45,9,38,34.4,70521,3064128.59,180602.28,5063293,45,13,Fit,2025,125.46
+MATCH1383,08-04-2023,Football,Japan,Bayern Munich,Stephen Curry,Morris Group,Sports Complex,33,56,29,81.63,91419,1048462.43,110872.69,1900441,20,15,Minor Injury,2023,88.28
+MATCH1384,22-10-2024,Football,Germany,Real Madrid,LeBron James,"Hooper, Hunt and Johnson",Arena B,28,64,21,69.35,64394,226154.24,1482131.69,9025415,23,5,Fit,2024,262.3
+MATCH1385,08-01-2025,Football,Argentina,Barcelona,Erling Haaland,"Davis, Stone and Davis",Sports Complex,21,107,12,79.77,47688,1158015.55,224715.07,3831548,13,7,Recovering,2024,436.24
+MATCH1386,17-03-2023,Tennis,Argentina,WTA Tour,Erling Haaland,Brown Ltd,Olympic Park,4,111,9,37.29,84879,2280404.45,777723.96,2298489,59,6,Recovering,2024,488.02
+MATCH1387,11-05-2023,Cricket,India,England,Erling Haaland,Heath Ltd,Stadium A,18,34,7,88.13,65106,2096936.91,1521877.47,3698530,38,19,Fit,2025,476.85
+MATCH1388,20-07-2024,Cricket,England,CSK,Cristiano Ronaldo,Todd Group,Olympic Park,34,125,13,67.33,65655,1403062.68,1461385.42,4148170,32,10,Minor Injury,2025,118.98
+MATCH1389,10-08-2024,Olympics,India,India Olympic Team,Novak Djokovic,"Martinez, Thornton and Farrell",Stadium A,3,120,46,81.49,9406,2134231.24,791668.71,1654153,58,15,Fit,2023,283.66
+MATCH1390,12-08-2023,Football,Brazil,PSG,Stephen Curry,Morgan Inc,National Ground,16,165,5,21.27,92691,1531134.65,1408092.45,9579401,96,18,Fit,2024,237.24
+MATCH1391,09-07-2023,Cricket,Germany,Pakistan,Rafael Nadal,Davis Inc,Stadium A,41,18,24,91.47,48634,2659292.43,596697.01,4536314,90,19,Recovering,2025,399.29
+MATCH1392,10-12-2023,Football,India,Bayern Munich,Kylian Mbappe,Bailey and Sons,National Ground,4,28,24,49.25,86151,213962.93,736033.83,9384948,91,2,Recovering,2025,389.05
+MATCH1393,02-09-2023,Cricket,Spain,England,Cristiano Ronaldo,Larson-Williams,Olympic Park,48,192,37,89.69,97123,1056871.94,1491308.35,3792209,42,11,Minor Injury,2025,343.31
+MATCH1394,06-03-2023,Basketball,Germany,Lakers,Stephen Curry,Mills-Ibarra,Olympic Park,32,128,33,86.36,66625,3552028.19,1358225.04,8949831,38,14,Recovering,2024,401.95
+MATCH1395,13-04-2024,Football,USA,Barcelona,Cristiano Ronaldo,Cooper-Allen,Olympic Park,12,73,4,28.75,41168,569002.66,300168.32,2534938,27,16,Recovering,2023,153.65
+MATCH1396,30-04-2024,Olympics,Germany,India Olympic Team,Novak Djokovic,Terry LLC,Olympic Park,48,165,1,43.32,13250,119962.73,1604968.26,8727785,83,10,Minor Injury,2025,177.97
+MATCH1397,30-08-2024,Basketball,Spain,Bulls,Kylian Mbappe,Bennett-Conway,Olympic Park,30,77,36,30.56,45172,866968.26,523714.88,8134251,48,9,Fit,2023,183.03
+MATCH1398,25-09-2024,Tennis,Brazil,WTA Tour,Kylian Mbappe,Dougherty-Short,National Ground,12,44,45,75.43,92340,3974341.83,326703.15,1971547,6,10,Recovering,2023,226.04
+MATCH1399,30-07-2023,Basketball,Spain,Warriors,Lionel Messi,Mendoza-Velez,National Ground,23,37,23,55.87,26311,2672878.36,247372.6,428175,52,15,Fit,2024,464.63
+MATCH1400,26-01-2025,Cricket,Spain,India,Kylian Mbappe,Mason-Steele,National Ground,42,180,18,57.91,42988,4848331.73,1509552.5,9635551,86,4,Recovering,2025,454.37
+MATCH1401,06-12-2024,Tennis,USA,Grand Slam,Rafael Nadal,"Erickson, Cervantes and Robertson",Stadium A,9,173,35,29.35,8250,2014133.31,1682549.45,7492180,46,2,Minor Injury,2023,307.99
+MATCH1402,23-06-2024,Cricket,England,CSK,LeBron James,"Evans, Smith and Moore",Arena B,2,21,34,87.96,93744,3361073.3,179316.99,8596369,51,6,Minor Injury,2024,305.55
+MATCH1403,13-11-2024,Olympics,Germany,Team USA,Novak Djokovic,Reyes-Phillips,Arena B,46,109,23,50.89,6597,1430405.32,705953.29,7485525,72,2,Fit,2025,445.02
+MATCH1404,23-10-2023,Tennis,Brazil,Davis Cup,Novak Djokovic,"Owens, Bishop and Jones",Olympic Park,9,150,38,26.89,32234,1523123.38,1976822.94,8823089,43,2,Recovering,2024,53.34
+MATCH1405,29-02-2024,Tennis,Brazil,Grand Slam,Kylian Mbappe,Lopez-Powell,Olympic Park,46,145,48,93.19,31117,938172.03,766630.22,9302345,63,1,Minor Injury,2025,158.92
+MATCH1406,18-08-2023,Olympics,India,Japan Olympic Team,Lionel Messi,"Brown, Miller and Riley",Arena B,17,76,40,86.74,66936,629642.85,1333497.36,4836621,54,5,Minor Injury,2025,325.95
+MATCH1407,22-02-2025,Football,Australia,Real Madrid,Rafael Nadal,Avila Ltd,Stadium A,39,190,23,66.49,79130,2185981.87,519533.52,7996637,89,3,Minor Injury,2025,369.15
+MATCH1408,16-06-2023,Football,Japan,Manchester City,Lionel Messi,Gonzales-Rocha,Arena B,21,118,44,30.84,26405,273912.76,725521.08,5982425,7,9,Minor Injury,2025,323.08
+MATCH1409,18-07-2023,Football,Brazil,Bayern Munich,Cristiano Ronaldo,Rice-Estrada,Sports Complex,49,42,34,45.81,46446,4135841.76,1371509.47,5061155,35,11,Fit,2025,294.22
+MATCH1410,21-05-2023,Cricket,Spain,India,LeBron James,"Malone, Lee and Johnson",National Ground,50,124,26,47.23,26368,521065.11,313337.05,3719668,25,17,Recovering,2025,417.39
+MATCH1411,03-03-2024,Olympics,Argentina,Team USA,Cristiano Ronaldo,"Mcdowell, Torres and Hill",Stadium A,9,4,30,47.86,95577,1819217.14,1634992.21,8786515,98,10,Fit,2025,159.3
+MATCH1412,12-05-2023,Football,Brazil,Barcelona,Rohit Sharma,"Rios, Brown and Shaw",National Ground,9,53,8,98.49,60680,3457182.5,1569139.3,1314181,3,15,Minor Injury,2023,106.21
+MATCH1413,30-08-2024,Football,India,Bayern Munich,Rafael Nadal,"Martin, Anderson and Patel",Stadium A,17,11,4,44.13,6346,3775205.85,1565829.77,3456060,76,6,Fit,2025,182.25
+MATCH1414,16-05-2025,Football,Australia,Barcelona,Erling Haaland,Rhodes Ltd,National Ground,23,41,32,82.46,85341,1216694.39,1142619.54,1672717,75,0,Recovering,2023,360.75
+MATCH1415,11-02-2025,Basketball,Spain,Warriors,Lionel Messi,Wilson-Nicholson,Stadium A,14,129,45,57.98,96505,2951009.05,882133.33,1810606,24,11,Minor Injury,2024,114.99
+MATCH1416,26-04-2023,Cricket,Germany,Pakistan,Cristiano Ronaldo,Brown-Estrada,Olympic Park,8,133,8,59.67,52349,3526607.27,1116478.59,691298,11,10,Minor Injury,2023,198.54
+MATCH1417,04-12-2024,Tennis,Argentina,Grand Slam,Rohit Sharma,"Flores, Mcclain and Zamora",Sports Complex,27,74,27,35.1,14123,4474825.69,1605860.62,6174643,23,0,Recovering,2024,339.33
+MATCH1418,19-06-2024,Tennis,USA,Davis Cup,Cristiano Ronaldo,"Berry, Bray and Francis",Arena B,26,102,44,67.24,18332,3709746.48,1785393.12,2840705,9,11,Fit,2024,108.13
+MATCH1419,27-08-2023,Tennis,France,ATP Tour,Rafael Nadal,Cummings-Lee,National Ground,49,182,49,66.55,40779,3783951.69,1602963.54,6724837,46,15,Recovering,2025,475.57
+MATCH1420,31-05-2023,Tennis,Argentina,Grand Slam,Cristiano Ronaldo,Weaver PLC,Stadium A,17,125,31,38.47,22643,158320.36,1476907.72,1154687,64,0,Fit,2024,306.25
+MATCH1421,07-11-2023,Basketball,Japan,Warriors,Erling Haaland,Jones-Myers,Stadium A,49,19,42,80.13,69512,3965729.76,407853.85,8363359,63,16,Minor Injury,2025,178.37
+MATCH1422,21-02-2025,Olympics,India,Team USA,Novak Djokovic,Villa Inc,Stadium A,25,115,20,88.23,63006,2303684.63,70555.29,9349314,85,9,Recovering,2023,250.83
+MATCH1423,02-01-2025,Cricket,France,England,Rafael Nadal,"Peterson, Contreras and Allen",Stadium A,37,172,31,72.81,94833,2701568.01,942287.67,9443080,21,16,Fit,2024,139.06
+MATCH1424,23-09-2024,Olympics,Germany,Japan Olympic Team,LeBron James,Cardenas Group,National Ground,4,7,37,23.61,53026,1750895.17,1485403.98,461304,98,20,Minor Injury,2024,57.7
+MATCH1425,26-02-2024,Basketball,Germany,Celtics,Lionel Messi,"Cannon, Lopez and Hansen",Arena B,16,60,41,44.97,16133,4552841.2,135672.97,5125582,15,10,Fit,2023,273.82
+MATCH1426,04-11-2024,Football,France,PSG,Erling Haaland,Valentine PLC,Sports Complex,27,68,1,75.68,82068,120959.89,636446.09,9578944,50,10,Recovering,2023,406.08
+MATCH1427,11-12-2023,Football,Argentina,Barcelona,Kylian Mbappe,"Johnson, Kelly and Velasquez",National Ground,11,157,19,49.07,62146,1016775.55,1272711.18,1273679,69,6,Minor Injury,2024,33.29
+MATCH1428,03-04-2025,Olympics,England,Japan Olympic Team,Erling Haaland,Thompson-Mercado,Stadium A,46,148,6,67.35,40830,345676.18,1603365.41,7983680,55,6,Minor Injury,2023,329.25
+MATCH1429,03-04-2025,Basketball,Australia,Nets,Novak Djokovic,Griffin LLC,Sports Complex,21,51,26,52.18,86915,2581692.47,1344762.7,9196574,24,0,Recovering,2025,262.95
+MATCH1430,26-05-2024,Cricket,England,CSK,Rafael Nadal,Thomas-Jordan,National Ground,41,136,39,88.22,61849,4673833.31,1454597.06,1014647,67,6,Minor Injury,2024,82.39
+MATCH1431,14-05-2025,Cricket,France,England,Novak Djokovic,"Rogers, Cook and Snyder",National Ground,5,162,13,87.68,39987,4120316.42,1293855.09,4312460,88,19,Fit,2024,126.86
+MATCH1432,29-01-2023,Cricket,England,Australia,LeBron James,Neal Ltd,Olympic Park,32,143,27,53.76,9850,1017932.64,549060.37,498919,34,8,Recovering,2025,96.23
+MATCH1433,12-03-2025,Football,India,PSG,Lionel Messi,Williams-Wilson,Stadium A,21,154,19,89.37,58347,4484898.49,1344985.79,1525088,51,4,Fit,2023,289.78
+MATCH1434,18-06-2024,Olympics,Japan,Team USA,Kylian Mbappe,Golden-Choi,National Ground,32,23,15,67.99,46079,1653136.7,1170730.81,6552286,96,7,Minor Injury,2023,80.7
+MATCH1435,09-10-2023,Cricket,Argentina,Australia,Novak Djokovic,Small-Chang,National Ground,38,14,31,62.68,96700,4744067.34,636397.44,7119870,61,7,Minor Injury,2023,187.87
+MATCH1436,22-01-2023,Basketball,Japan,Celtics,Lionel Messi,"Jackson, Ferguson and Austin",Stadium A,45,171,15,40.24,55422,1553249.82,1917174.81,6097698,88,3,Recovering,2023,430.25
+MATCH1437,07-02-2024,Tennis,Australia,ATP Tour,LeBron James,Wilcox-King,Stadium A,49,60,19,36.83,26001,4580295.1,1264548.64,6826395,5,8,Fit,2024,240.83
+MATCH1438,04-01-2025,Tennis,France,Grand Slam,Cristiano Ronaldo,Blake Ltd,Arena B,45,66,32,25.31,60164,3014558.55,1627788.96,5492263,59,0,Fit,2025,324.38
+MATCH1439,04-01-2023,Tennis,France,WTA Tour,Rohit Sharma,Summers Ltd,National Ground,21,147,5,28.87,37716,2586665.8,1939480.85,2192597,77,13,Minor Injury,2024,244.4
+MATCH1440,27-06-2023,Cricket,Japan,England,Stephen Curry,Davis Group,National Ground,13,21,26,49.41,56576,4383186.16,1889790.52,9579565,29,0,Fit,2025,327.08
+MATCH1441,18-04-2024,Cricket,England,India,LeBron James,Wells PLC,Arena B,4,102,39,54.31,39099,754763.49,1916275.56,2864188,73,3,Fit,2025,267.66
+MATCH1442,02-05-2023,Tennis,England,Davis Cup,Rohit Sharma,"Swanson, Craig and Wagner",Arena B,18,73,47,59.53,22065,2162229.86,417178.88,3626607,37,6,Minor Injury,2023,210.18
+MATCH1443,25-10-2023,Cricket,Australia,India,Rohit Sharma,"Mora, Wallace and Evans",Sports Complex,29,63,23,66.63,89834,2296238.92,25588.88,2244807,42,12,Recovering,2023,359.53
+MATCH1444,16-03-2023,Tennis,USA,Grand Slam,Kylian Mbappe,"Buckley, Silva and Johnson",Stadium A,4,85,15,57.67,51439,4983729.79,1878947.27,773562,1,8,Recovering,2025,196.66
+MATCH1445,16-05-2023,Tennis,Spain,Grand Slam,Lionel Messi,Wilson-Haney,Sports Complex,12,66,10,60.3,49456,4390704.79,268179.47,5333702,91,16,Minor Injury,2023,137.6
+MATCH1446,11-05-2023,Basketball,Argentina,Lakers,LeBron James,"Fischer, Middleton and Martin",National Ground,28,72,16,69.03,39571,2589693.7,874371.86,2777969,41,15,Fit,2025,427.99
+MATCH1447,13-07-2023,Tennis,Brazil,ATP Tour,Lionel Messi,Mann-Rasmussen,Arena B,12,9,30,40.82,97531,2340992.87,236467.97,8313225,6,14,Minor Injury,2025,284.82
+MATCH1448,26-04-2023,Tennis,Brazil,Davis Cup,Cristiano Ronaldo,Rivera-Roy,National Ground,6,52,18,34.45,27058,3752183.89,1646030.65,9459723,85,18,Fit,2025,499.02
+MATCH1449,24-02-2025,Football,Japan,Bayern Munich,Virat Kohli,Mccarthy PLC,Olympic Park,5,63,49,59.85,17360,4437964.81,56794.53,2056668,51,11,Recovering,2023,420.12
+MATCH1450,25-03-2023,Cricket,Argentina,India,Rafael Nadal,Taylor-Reynolds,Olympic Park,41,68,38,72.64,48178,4849154.86,1314064.65,7611790,42,18,Fit,2023,433.01
+MATCH1451,28-03-2025,Basketball,India,Celtics,Cristiano Ronaldo,"Blackwell, Burke and Rogers",Sports Complex,39,97,5,51.91,28332,1207999.86,1542900.59,6702721,12,0,Fit,2023,200.37
+MATCH1452,24-10-2024,Tennis,Brazil,Grand Slam,Cristiano Ronaldo,Washington and Sons,National Ground,32,110,47,84.51,45645,4519634.02,1209009.65,6033763,86,3,Minor Injury,2025,107.94
+MATCH1453,02-05-2024,Tennis,Australia,Davis Cup,Erling Haaland,"Mullins, Colon and Rodriguez",Sports Complex,28,23,48,53.8,53265,3073200.24,871041.32,7157380,12,1,Recovering,2024,486.9
+MATCH1454,22-05-2024,Cricket,Spain,Australia,Kylian Mbappe,"Lopez, Hendrix and Thompson",Stadium A,19,119,27,26.33,67601,1508962.34,1968451.53,5050020,32,16,Minor Injury,2024,288.58
+MATCH1455,16-02-2023,Olympics,Spain,Team USA,Cristiano Ronaldo,"Pham, Woods and Banks",Sports Complex,28,105,6,57.17,99412,2846706.27,510493.76,4285844,75,2,Recovering,2023,65.83
+MATCH1456,16-03-2025,Tennis,Brazil,WTA Tour,Novak Djokovic,David-Hopkins,Stadium A,6,106,45,43.81,81966,3623232.48,1515921.76,7558873,80,8,Minor Injury,2023,113.42
+MATCH1457,23-09-2023,Football,USA,Bayern Munich,Novak Djokovic,Flores-Maldonado,Sports Complex,2,1,25,29.33,27509,3282446.85,923025.22,6806309,85,19,Recovering,2024,158.37
+MATCH1458,08-12-2024,Olympics,France,China Olympic Team,LeBron James,Myers and Sons,Stadium A,9,34,0,35.26,7082,3483201.89,380501.1,459886,27,15,Recovering,2023,328.37
+MATCH1459,30-03-2023,Tennis,Australia,WTA Tour,Rafael Nadal,Nicholson-Gray,Arena B,31,108,1,29.32,24978,3696518.1,893305.57,8147735,61,0,Minor Injury,2025,128.89
+MATCH1460,29-04-2025,Basketball,France,Nets,Lionel Messi,Baker-Johnson,National Ground,1,26,40,87.81,61595,4897639.82,1697989.44,9718325,77,17,Minor Injury,2023,248.87
+MATCH1461,26-08-2023,Tennis,India,Davis Cup,Kylian Mbappe,Hartman Inc,Stadium A,28,147,20,64.26,40107,4465457.21,837189.23,7951293,15,15,Recovering,2025,179.91
+MATCH1462,15-06-2023,Tennis,Australia,ATP Tour,Rohit Sharma,Turner-Collins,Olympic Park,23,112,14,60.61,82025,4546260.07,681610.23,7869576,17,9,Recovering,2025,201.28
+MATCH1463,26-03-2025,Tennis,Argentina,Grand Slam,Virat Kohli,"Mendoza, Drake and Mcclain",Sports Complex,14,72,44,79.94,92432,2419619.93,350715.75,2632515,78,15,Fit,2024,472.1
+MATCH1464,29-08-2023,Tennis,England,Grand Slam,Kylian Mbappe,Schultz-Benitez,Stadium A,2,91,16,48.56,25788,881826.83,1719626.04,8456974,5,2,Minor Injury,2024,65.84
+MATCH1465,29-07-2024,Cricket,England,India,Rafael Nadal,Duncan-Pacheco,National Ground,22,200,22,81.55,78010,1344781.27,306600.86,8656766,78,3,Recovering,2023,464.05
+MATCH1466,11-05-2025,Tennis,USA,Davis Cup,Cristiano Ronaldo,Patterson-Garcia,Sports Complex,40,200,6,85.89,10501,2541455.58,338257.37,1990707,27,11,Fit,2025,153.14
+MATCH1467,20-01-2025,Tennis,USA,Davis Cup,Virat Kohli,Sharp-Rose,National Ground,22,35,7,87.89,62554,4848486.97,1539592.5,120521,32,15,Minor Injury,2024,257.46
+MATCH1468,17-01-2024,Football,France,Manchester City,Stephen Curry,Hernandez LLC,Arena B,10,192,48,62.37,34908,698591.72,860501.58,6877070,59,16,Recovering,2024,472.43
+MATCH1469,27-02-2025,Tennis,India,WTA Tour,Kylian Mbappe,Hudson-Rivera,Stadium A,6,86,20,52.13,26538,2176020.67,789566.2,632329,85,20,Fit,2025,38.33
+MATCH1470,05-03-2024,Olympics,France,China Olympic Team,Kylian Mbappe,Clark-Brady,National Ground,47,190,20,92.74,6035,4136747.74,1800916,2473932,90,12,Minor Injury,2025,110.52
+MATCH1471,15-12-2024,Olympics,Germany,Japan Olympic Team,Novak Djokovic,Hawkins Group,Arena B,20,21,2,62.99,56117,3628242.42,1481404.18,2124023,67,17,Minor Injury,2023,55.48
+MATCH1472,17-06-2024,Olympics,Germany,China Olympic Team,Virat Kohli,Daniels Group,Stadium A,2,138,37,40.7,44838,3635281.14,1973974.63,1862907,94,1,Minor Injury,2024,317.22
+MATCH1473,18-02-2023,Basketball,USA,Lakers,Rafael Nadal,Shaw-Baker,National Ground,37,188,0,56.25,35945,4028883.93,1978055.16,9499146,92,20,Recovering,2025,423.8
+MATCH1474,03-11-2023,Cricket,Australia,England,Erling Haaland,Haynes-Rose,Arena B,46,96,33,79,18792,1645956.35,1166826.25,6071063,59,3,Fit,2025,218.59
+MATCH1475,05-04-2023,Tennis,India,ATP Tour,Novak Djokovic,"Richards, Marsh and Anderson",Arena B,31,54,28,26.25,93712,2636015.46,1178537.72,8716452,100,12,Minor Injury,2025,254.43
+MATCH1476,06-12-2024,Tennis,Argentina,Davis Cup,Novak Djokovic,Baker PLC,Arena B,10,129,8,58.78,64993,655632.09,1410526.75,8887514,16,6,Minor Injury,2024,25.98
+MATCH1477,14-01-2024,Cricket,USA,CSK,Erling Haaland,Simmons Ltd,Olympic Park,8,30,23,65.74,10279,2618659.72,239895.72,5125785,48,9,Minor Injury,2024,23.71
+MATCH1478,13-03-2025,Cricket,Japan,Australia,Novak Djokovic,Blackwell Group,Stadium A,20,72,13,34.65,69067,20407.91,1097336.91,1143544,6,13,Minor Injury,2025,161.75
+MATCH1479,11-03-2025,Tennis,France,Grand Slam,Rafael Nadal,Rivera-Ortiz,Sports Complex,9,195,8,60.38,65415,3810777.12,1336105.39,2509513,94,10,Fit,2025,335.61
+MATCH1480,27-08-2023,Tennis,France,Davis Cup,Stephen Curry,Hoffman Inc,Sports Complex,3,171,28,78.87,89661,451764.16,335401.49,426143,74,20,Recovering,2024,284.91
+MATCH1481,29-03-2023,Football,England,Bayern Munich,Erling Haaland,Ritter Group,Sports Complex,37,193,3,96.58,73387,955085.41,954292.21,323131,16,17,Fit,2023,144.73
+MATCH1482,29-04-2025,Cricket,Japan,Australia,Rafael Nadal,"Smith, Giles and Bass",Stadium A,35,155,20,52.14,10896,2462450.47,1868028.32,5713524,56,5,Minor Injury,2023,431.23
+MATCH1483,21-09-2023,Basketball,USA,Bulls,Cristiano Ronaldo,Welch-Lynch,Stadium A,35,43,18,31.52,38496,3843840.41,312683.6,6842964,87,5,Fit,2025,480.95
+MATCH1484,31-12-2024,Cricket,India,India,LeBron James,Dixon Inc,Olympic Park,7,81,9,53.03,47495,1297092.11,1883447.14,2039477,7,6,Fit,2025,297.15
+MATCH1485,28-04-2023,Tennis,Australia,Davis Cup,Lionel Messi,Crawford-Jacobs,National Ground,30,141,26,25.24,8788,2043394.01,471312.21,322439,35,17,Recovering,2025,59.74
+MATCH1486,08-11-2023,Olympics,Japan,India Olympic Team,Novak Djokovic,"James, Villarreal and Gonzalez",Olympic Park,6,162,32,36.28,23660,1872793.05,1970690.89,4123127,69,13,Recovering,2024,30.48
+MATCH1487,30-10-2024,Tennis,Brazil,Grand Slam,Lionel Messi,"Perry, Tucker and Martin",Stadium A,31,69,38,40.07,94128,1906966.04,706078.75,3579422,75,16,Minor Injury,2023,89.09
+MATCH1488,04-11-2023,Olympics,USA,Team USA,Novak Djokovic,"Montgomery, Mason and Jones",Stadium A,9,185,35,99.91,61618,1062142.38,1012116.4,5350253,88,10,Recovering,2024,490.02
+MATCH1489,09-09-2023,Tennis,Germany,Grand Slam,Stephen Curry,Tate-Savage,Arena B,30,153,21,21.27,95681,677291.47,1844904.27,8004829,1,0,Recovering,2023,212.45
+MATCH1490,05-07-2024,Tennis,USA,Davis Cup,Cristiano Ronaldo,Reeves-Dodson,Sports Complex,2,171,28,73.78,51267,4860474.75,755871.02,6015668,50,5,Recovering,2023,71.13
+MATCH1491,31-03-2024,Basketball,India,Warriors,Rohit Sharma,"Rosario, Moody and Huang",Stadium A,49,71,43,93.71,51900,965643.27,1633480.24,5096491,92,7,Fit,2024,483.98
+MATCH1492,19-05-2024,Football,Japan,Manchester City,Rohit Sharma,"Gallagher, Martinez and Silva",Stadium A,13,163,25,28.88,41352,2849820.13,990552.59,9267419,25,18,Recovering,2025,305.46
+MATCH1493,25-08-2024,Cricket,Brazil,India,Cristiano Ronaldo,Shaw Inc,Arena B,17,145,14,90.48,40956,967339.22,1357567.54,8951274,79,8,Recovering,2025,442.72
+MATCH1494,18-10-2024,Football,India,PSG,Stephen Curry,"Young, Mitchell and Lewis",Olympic Park,27,70,7,74.41,66156,2482917.83,1036927.54,739216,93,7,Fit,2024,460.01
+MATCH1495,20-11-2023,Olympics,India,Japan Olympic Team,Novak Djokovic,"Carr, Powers and Wall",Arena B,22,20,36,84.61,34573,4890697.1,850521.41,1258902,32,6,Fit,2024,162.29
+MATCH1496,06-05-2024,Football,France,Real Madrid,Lionel Messi,Wade-Brown,Sports Complex,41,85,16,39.77,67072,1199412.47,684899.93,923231,43,16,Fit,2023,390.12
+MATCH1497,21-02-2025,Olympics,USA,Japan Olympic Team,Rafael Nadal,"Barker, Smith and Todd",Sports Complex,8,21,3,93.34,54465,1573264.38,1696145.83,1100992,17,1,Minor Injury,2023,157.72
+MATCH1498,15-04-2023,Tennis,India,ATP Tour,Kylian Mbappe,"Martinez, Cole and Benitez",Stadium A,19,97,25,27.67,58884,1173228.8,1201153.83,187948,59,12,Minor Injury,2024,441.17
+MATCH1499,14-12-2023,Olympics,India,Team USA,Rafael Nadal,"King, Lucero and Bond",Sports Complex,22,150,12,28.64,6610,2979923.79,139751.22,3258312,74,4,Recovering,2025,135.58
+MATCH1500,12-01-2025,Tennis,Japan,Davis Cup,Rafael Nadal,"Davenport, Martinez and Taylor",Arena B,16,35,2,24.84,45850,2926766.25,1028685.85,6011942,40,18,Recovering,2023,82.23
+MATCH1501,18-12-2023,Basketball,Australia,Nets,Stephen Curry,Blankenship-Ryan,Stadium A,34,150,42,74.26,12512,1194562.9,1639271.66,9396012,7,13,Minor Injury,2023,488.49
+MATCH1502,16-12-2023,Cricket,England,India,Rafael Nadal,"Butler, Hampton and Walls",Olympic Park,39,177,21,88.16,79199,4815693.8,1234125.76,7034541,43,5,Fit,2024,439.29
+MATCH1503,13-08-2023,Football,India,PSG,Rohit Sharma,Davis PLC,Arena B,30,159,13,39.12,48452,4038283.82,754944.05,6726130,24,0,Minor Injury,2023,46.13
+MATCH1504,28-04-2023,Football,Brazil,Bayern Munich,LeBron James,"Franklin, Mann and Richards",Olympic Park,13,161,37,93.02,52174,229085.08,64222.72,3328952,37,5,Fit,2024,362.23
+MATCH1505,09-09-2023,Basketball,Brazil,Nets,Rohit Sharma,Murphy Ltd,Stadium A,12,67,6,21.68,93795,694845.24,1311464.05,1871751,44,6,Minor Injury,2024,127.67
+MATCH1506,23-06-2024,Basketball,Japan,Warriors,Novak Djokovic,"Williams, Harris and Meyer",Stadium A,8,36,8,83.59,30124,2667448.01,1390236.02,5344342,77,13,Recovering,2023,461.3
+MATCH1507,24-05-2025,Olympics,Spain,India Olympic Team,LeBron James,Johnson Group,Arena B,21,63,3,70.36,41709,4365528.94,1703747.76,9809273,63,6,Recovering,2023,394.49
+MATCH1508,21-06-2023,Olympics,Spain,Team USA,Novak Djokovic,"Morgan, Lewis and Martin",Sports Complex,24,127,33,57.14,47182,3565309.5,1053323.96,8118379,92,15,Minor Injury,2024,294.78
+MATCH1509,01-08-2023,Olympics,England,Team USA,Rohit Sharma,"Barnett, Steele and Smith",Olympic Park,16,101,13,44.48,54425,2861138.23,1871320.32,6286479,33,17,Fit,2023,378.3
+MATCH1510,15-06-2024,Basketball,Germany,Bulls,Rohit Sharma,"Burns, Stewart and Cole",Sports Complex,3,119,32,69.69,60850,2261244.5,867848.8,6175827,64,10,Minor Injury,2024,22.11
+MATCH1511,29-09-2023,Tennis,USA,WTA Tour,Stephen Curry,"Chavez, Mahoney and Richardson",Stadium A,19,128,32,63.73,15244,3931507.75,1853578.81,1661030,16,2,Minor Injury,2023,277.55
+MATCH1512,22-11-2024,Basketball,Germany,Warriors,LeBron James,"Walsh, Davis and Hunt",National Ground,48,196,43,87.64,29987,3531156.76,1996001.43,9122136,34,0,Minor Injury,2024,412.93
+MATCH1513,21-04-2025,Tennis,Japan,Davis Cup,Lionel Messi,Baker-Koch,Olympic Park,42,131,48,96.12,57101,1145616.68,1448055.1,3531118,61,7,Recovering,2025,395.13
+MATCH1514,15-12-2023,Tennis,USA,Davis Cup,Stephen Curry,"Brown, Wilkerson and Garcia",Arena B,28,197,44,53.42,62498,2255359.96,1119101.4,6296425,18,18,Fit,2024,472.24
+MATCH1515,09-04-2025,Football,Germany,PSG,Stephen Curry,Cline-Powell,Arena B,27,108,43,80.21,95507,2692643.99,655528.63,399899,73,1,Fit,2023,488.85
+MATCH1516,06-10-2024,Basketball,Japan,Nets,Erling Haaland,Mcgee Ltd,Sports Complex,26,97,13,95.9,13350,2677108,380735.66,1832649,43,18,Minor Injury,2025,448.42
+MATCH1517,17-04-2023,Football,Spain,Barcelona,Virat Kohli,"Cox, Hodge and Williams",Stadium A,45,154,31,22.15,31083,356760.27,1926174.14,4771669,27,7,Minor Injury,2025,266.95
+MATCH1518,13-01-2024,Tennis,Spain,ATP Tour,Lionel Messi,"Evans, Diaz and Edwards",Arena B,21,105,25,32.56,19515,654396.97,839734.34,1163651,50,6,Fit,2023,161.78
+MATCH1519,10-09-2024,Tennis,Japan,WTA Tour,LeBron James,Lowe-Schmidt,Sports Complex,13,128,45,74.79,41102,1016496.62,1982214.8,7488135,9,12,Recovering,2023,267.67
+MATCH1520,16-04-2024,Olympics,Argentina,Japan Olympic Team,Erling Haaland,"Stafford, Powell and Gonzalez",Stadium A,48,23,18,71.7,64809,1740441.38,1686065.75,5000361,51,19,Fit,2024,132.08
+MATCH1521,13-04-2024,Olympics,France,Japan Olympic Team,Virat Kohli,White-Curtis,Sports Complex,7,100,44,95.65,36417,4428853.67,320074.79,9031738,38,2,Recovering,2025,363.98
+MATCH1522,26-02-2024,Cricket,Spain,Pakistan,Cristiano Ronaldo,"Hicks, Watts and Wilson",National Ground,5,193,6,60.35,47731,2056379.38,333854.02,3489126,65,1,Minor Injury,2023,45.87
+MATCH1523,18-12-2023,Tennis,France,Davis Cup,Rohit Sharma,Garza Group,Olympic Park,3,2,16,29.17,22888,1642280.71,1498608.68,8142910,60,2,Fit,2025,331.94
+MATCH1524,27-04-2024,Tennis,Australia,WTA Tour,Virat Kohli,Stanley-Clark,Arena B,2,155,6,34.18,21272,2677922.63,784744.76,1311665,86,0,Recovering,2024,85.21
+MATCH1525,10-08-2023,Basketball,India,Warriors,Kylian Mbappe,Carson Ltd,Arena B,29,178,3,86.92,73534,3208650.82,1434238.81,1734585,50,9,Minor Injury,2023,303.12
+MATCH1526,24-02-2025,Football,England,PSG,Rohit Sharma,"Lee, Koch and Martinez",National Ground,16,51,5,21.28,8662,4946560.22,677547.7,3233772,88,2,Fit,2023,400.49
+MATCH1527,15-02-2023,Cricket,France,Australia,Kylian Mbappe,"Crawford, Tate and Estrada",Stadium A,21,82,35,70.14,86877,1043525.38,1085696.79,7188640,16,7,Fit,2023,184.72
+MATCH1528,16-02-2024,Cricket,Germany,India,Lionel Messi,Bell-Hood,Olympic Park,14,117,14,25.28,41497,3253225.53,741115.02,1139631,28,13,Minor Injury,2025,254.79
+MATCH1529,21-03-2025,Football,Japan,Bayern Munich,Virat Kohli,Hughes LLC,National Ground,7,153,20,98.51,96267,1948941.55,1849484.04,2240219,43,5,Recovering,2025,165.8
+MATCH1530,10-12-2023,Tennis,India,ATP Tour,Erling Haaland,Gilbert Inc,Sports Complex,29,97,32,71.25,35464,2522066.02,1410735.12,232997,30,0,Recovering,2023,161.34
+MATCH1531,26-09-2024,Tennis,USA,WTA Tour,Lionel Messi,"Young, Hunt and Barnett",Arena B,24,127,18,36.16,54250,1029882.8,80623.9,7454490,95,10,Fit,2024,165.59
+MATCH1532,21-03-2025,Football,France,Bayern Munich,LeBron James,Sullivan Group,Stadium A,15,187,21,47.42,31976,2701165.64,1813730.96,4176421,88,7,Recovering,2024,265.52
+MATCH1533,06-10-2024,Cricket,India,Pakistan,Cristiano Ronaldo,Chandler-Johnston,Olympic Park,5,49,3,70.75,23550,4691989.89,255494.19,2923796,76,17,Fit,2023,258.64
+MATCH1534,15-11-2023,Tennis,Brazil,Davis Cup,Rohit Sharma,Jefferson and Sons,Arena B,28,45,38,39.92,42401,2886344.93,1935612.99,3388948,35,15,Fit,2024,205.14
+MATCH1535,27-03-2024,Cricket,France,Pakistan,Kylian Mbappe,"Robinson, Frank and Middleton",Sports Complex,48,110,48,32.47,68176,108857.27,765931.53,1406415,98,9,Recovering,2025,84.87
+MATCH1536,25-01-2024,Cricket,Argentina,England,LeBron James,"Perez, Freeman and White",Olympic Park,19,96,35,68.48,14429,1672838.36,1431152.42,3293565,20,6,Fit,2023,432.21
+MATCH1537,19-02-2024,Basketball,France,Bulls,Novak Djokovic,"Brown, Oliver and Hudson",National Ground,25,125,19,71.28,82110,365459.44,1770574.16,2098386,50,18,Fit,2023,383.85
+MATCH1538,05-06-2024,Basketball,Argentina,Celtics,Stephen Curry,"Jones, Thomas and Washington",Stadium A,42,98,27,78.85,36765,2393850.54,1843329.75,6073525,81,0,Recovering,2025,326.21
+MATCH1539,11-04-2024,Basketball,Brazil,Nets,LeBron James,Hurst Inc,Arena B,39,148,42,87.32,6617,592485.91,189150.08,6458284,51,18,Fit,2025,455.88
+MATCH1540,29-04-2025,Tennis,France,WTA Tour,LeBron James,"Perez, Thomas and Arnold",National Ground,33,136,42,90.93,81818,1546814.54,826159.94,1501048,14,20,Recovering,2024,408.97
+MATCH1541,05-02-2025,Basketball,France,Warriors,LeBron James,Long-Mason,Stadium A,11,125,0,27.75,96267,2095019.63,836600.44,4847546,94,13,Fit,2023,193.58
+MATCH1542,13-05-2024,Cricket,Brazil,Australia,Kylian Mbappe,Wilson-Robinson,Stadium A,29,145,13,34.85,12730,3752079.52,1619311.36,3229293,34,13,Minor Injury,2025,457.36
+MATCH1543,23-03-2023,Football,Australia,Barcelona,Cristiano Ronaldo,Riley-Charles,Olympic Park,8,70,4,47.37,81761,1181552.84,972962.73,1701296,2,1,Minor Injury,2023,336.01
+MATCH1544,05-08-2023,Football,Spain,Real Madrid,Lionel Messi,Dickson Ltd,Olympic Park,39,133,48,41.27,68691,2371426.6,677374.79,7215036,44,11,Recovering,2024,499.73
+MATCH1545,12-11-2024,Cricket,France,England,Novak Djokovic,"Stewart, Gonzalez and Anderson",Sports Complex,4,91,21,84.5,5404,2290027.1,1398125,2339735,4,19,Fit,2025,146.94
+MATCH1546,07-04-2024,Cricket,Japan,England,Rafael Nadal,"Newton, Roberts and Martinez",Sports Complex,27,169,12,20.25,88633,4788160.24,1626175,289010,82,11,Fit,2025,169.51
+MATCH1547,13-09-2024,Tennis,Argentina,WTA Tour,Novak Djokovic,Parker and Sons,Sports Complex,6,89,27,95.13,67406,4934488.6,1714914.5,1695367,94,12,Minor Injury,2025,105.59
+MATCH1548,16-06-2025,Cricket,Japan,CSK,Kylian Mbappe,Friedman and Sons,Stadium A,9,127,50,26.97,93219,4981560.65,1974503.12,7841655,22,14,Fit,2024,334.69
+MATCH1549,05-08-2023,Cricket,Brazil,Australia,Cristiano Ronaldo,Hunter Ltd,Stadium A,28,183,1,32.82,47795,4514216.11,1533786.1,3707296,93,8,Recovering,2024,476.24
+MATCH1550,01-07-2024,Football,Argentina,Barcelona,Cristiano Ronaldo,Wiley-Klein,National Ground,15,147,49,93.91,13476,3223492.84,757135.59,6413032,84,20,Recovering,2024,406.14
+MATCH1551,29-04-2023,Cricket,Australia,England,Cristiano Ronaldo,"Mahoney, Ward and Fields",Stadium A,6,87,47,67.38,29662,3725642.58,236631.92,6179603,17,10,Minor Injury,2025,371.09
+MATCH1552,27-08-2024,Basketball,Spain,Lakers,Rohit Sharma,"Howell, Hill and Grant",Olympic Park,28,81,49,49.2,94037,4670286.57,256983.19,9921576,29,3,Minor Injury,2023,273.76
+MATCH1553,29-05-2023,Tennis,Australia,Grand Slam,Rohit Sharma,Levine and Sons,Olympic Park,44,116,9,68.12,24119,3737829.06,1699009.3,586194,77,10,Minor Injury,2025,495.26
+MATCH1554,18-05-2025,Football,Japan,Manchester City,Rafael Nadal,"Gonzalez, Mitchell and Wells",Arena B,32,74,45,97.32,12708,4905902.55,669623.37,3543501,94,7,Recovering,2025,35.76
+MATCH1555,14-01-2025,Cricket,France,Pakistan,LeBron James,"Miller, Fowler and Tyler",Arena B,2,140,25,46.99,93853,2372373.88,699872.79,6575976,51,2,Recovering,2025,148.69
+MATCH1556,08-02-2024,Cricket,USA,CSK,Virat Kohli,"Smith, Miller and Hanson",National Ground,49,148,3,87.98,98007,1527329.3,1310994.8,9693094,18,14,Recovering,2024,152.63
+MATCH1557,12-08-2023,Cricket,England,Australia,Lionel Messi,"Johnson, Roberts and Howard",National Ground,47,147,6,74.27,24346,1889013.41,1965487.59,2832312,8,3,Minor Injury,2024,98.02
+MATCH1558,11-06-2024,Football,Germany,Real Madrid,Erling Haaland,Evans Inc,Olympic Park,10,160,46,52.32,9455,602824.68,796306.37,5088288,89,19,Fit,2025,375.15
+MATCH1559,04-06-2025,Football,France,PSG,LeBron James,"Cooper, Davis and Bell",Olympic Park,24,2,7,29.33,20997,2451200.02,1339240.46,8562160,29,0,Recovering,2025,493.8
+MATCH1560,11-12-2024,Tennis,USA,Grand Slam,Erling Haaland,Norman-Scott,Arena B,25,123,41,76.22,44107,2861401.27,203385.3,1075324,92,17,Fit,2024,408.31
+MATCH1561,23-07-2024,Football,Spain,PSG,Kylian Mbappe,Hooper Ltd,Olympic Park,5,132,37,63.12,90419,629205.75,1507211.44,1978404,24,19,Recovering,2023,12.61
+MATCH1562,06-05-2023,Tennis,India,Grand Slam,Virat Kohli,"Daniel, Price and Hawkins",Sports Complex,14,167,10,27.03,38654,4258736.03,74835.53,2102406,65,9,Minor Injury,2025,94.09
+MATCH1563,04-11-2023,Football,India,Barcelona,Kylian Mbappe,Lewis PLC,National Ground,43,136,28,31.19,69283,3478556.46,1047719.19,5917545,78,17,Recovering,2023,347.09
+MATCH1564,07-02-2023,Football,England,Barcelona,Virat Kohli,"Patel, Thomas and Hoover",National Ground,14,34,38,64.17,82566,1801735.16,261341.77,7090237,10,17,Minor Injury,2024,197.07
+MATCH1565,12-04-2024,Cricket,USA,Pakistan,LeBron James,"Li, Stone and Trujillo",Olympic Park,45,36,34,36.3,87518,3666047.74,1990741.74,3241751,92,11,Recovering,2025,327.41
+MATCH1566,05-03-2024,Olympics,Brazil,India Olympic Team,Stephen Curry,"Powell, Adams and Marks",Olympic Park,25,6,38,39.8,40405,631859.91,224430.31,9210101,53,2,Minor Injury,2025,53.6
+MATCH1567,30-05-2023,Basketball,England,Celtics,LeBron James,"Anderson, Scott and Hernandez",Stadium A,7,96,14,50.29,18762,3915840.76,251389.47,8842796,94,9,Recovering,2024,56.81
+MATCH1568,05-06-2025,Basketball,Australia,Nets,Kylian Mbappe,Ramsey LLC,National Ground,39,25,3,33.66,56060,911555.7,1613139.57,8930146,71,19,Minor Injury,2024,300.23
+MATCH1569,04-12-2024,Basketball,Spain,Lakers,Virat Kohli,Crosby Group,Arena B,10,96,36,78.83,11929,4593023.8,1280191.01,6220098,91,7,Recovering,2025,214.94
+MATCH1570,25-03-2024,Tennis,Germany,WTA Tour,Rafael Nadal,Stevens-Hudson,Sports Complex,19,70,27,61.65,99170,4408124.67,1628976.38,5130195,82,2,Minor Injury,2024,387.58
+MATCH1571,20-03-2023,Football,England,Real Madrid,Cristiano Ronaldo,Erickson-Garcia,Arena B,37,14,5,79.47,77634,4648649.14,1617652.1,189426,55,16,Recovering,2023,245.03
+MATCH1572,20-02-2024,Olympics,India,Team USA,Erling Haaland,Cardenas and Sons,Arena B,48,1,45,54,75035,3750843.08,492231.36,8870239,88,19,Fit,2025,229.84
+MATCH1573,19-08-2023,Cricket,Brazil,CSK,Cristiano Ronaldo,Sosa-Stark,National Ground,9,131,22,96.2,60407,2482584.23,345115.51,1909743,44,7,Recovering,2023,152.13
+MATCH1574,29-09-2023,Tennis,England,Grand Slam,Lionel Messi,Stokes Ltd,Sports Complex,26,55,19,94.33,89275,2582489.77,1787368.63,7778806,80,15,Fit,2024,12.89
+MATCH1575,02-11-2023,Tennis,Germany,Grand Slam,Cristiano Ronaldo,Beck-Chandler,Stadium A,23,184,11,52.17,6161,515675.52,986632.01,1431764,68,16,Fit,2024,70.68
+MATCH1576,09-06-2023,Tennis,Australia,ATP Tour,Rohit Sharma,Marshall PLC,Olympic Park,26,95,19,49.16,28878,2686772.65,542615.94,7368018,85,14,Fit,2023,183.33
+MATCH1577,03-01-2024,Tennis,England,ATP Tour,Cristiano Ronaldo,Perez-Marquez,Arena B,19,10,8,51.56,48412,4505979.07,324823.44,3348530,62,8,Fit,2024,249.64
+MATCH1578,29-11-2023,Tennis,France,WTA Tour,Kylian Mbappe,Walton and Sons,Olympic Park,9,28,6,83.42,21531,786154.52,1002501.86,3977894,7,10,Minor Injury,2025,371.34
+MATCH1579,24-10-2023,Tennis,Australia,Davis Cup,Rafael Nadal,Wood Group,Stadium A,49,109,15,69.41,72009,942432.57,565871.98,1939715,34,7,Recovering,2024,107.22
+MATCH1580,17-09-2024,Football,Brazil,Bayern Munich,Rohit Sharma,"Dean, Hopkins and Davenport",Sports Complex,41,162,9,38.35,22340,2012402.97,551353.97,3234201,19,13,Fit,2025,107.83
+MATCH1581,22-02-2024,Football,Spain,PSG,LeBron James,Wright and Sons,Arena B,15,86,27,58.34,71828,2141093.41,108052.7,1856415,35,11,Minor Injury,2024,358.68
+MATCH1582,18-02-2023,Cricket,Brazil,England,Lionel Messi,Thompson-Jackson,Stadium A,4,169,47,45.73,42397,2365570.24,1817421.54,1700500,56,5,Minor Injury,2024,188.15
+MATCH1583,10-04-2023,Basketball,India,Lakers,Kylian Mbappe,Diaz-Taylor,Arena B,22,92,47,84.8,82189,2649021.7,746326.61,4639621,27,18,Minor Injury,2023,444.72
+MATCH1584,04-05-2023,Cricket,India,CSK,Erling Haaland,Singh Group,Arena B,13,180,28,94.04,14814,4709671.83,1239925.69,5067934,93,15,Fit,2025,363.18
+MATCH1585,16-07-2023,Football,France,Barcelona,Kylian Mbappe,Pratt Ltd,National Ground,49,143,22,91.59,63783,3153024.55,239270.73,7326976,9,15,Minor Injury,2025,466.35
+MATCH1586,20-06-2023,Olympics,Japan,Team USA,LeBron James,"Carr, Chavez and Hall",Arena B,19,11,36,24.86,95938,959052.67,1629994.34,8315156,88,17,Recovering,2023,91.1
+MATCH1587,29-07-2024,Olympics,France,Japan Olympic Team,Novak Djokovic,Diaz PLC,Sports Complex,18,52,11,20.29,79959,1096860.53,1394959.89,8613283,59,16,Recovering,2025,267.29
+MATCH1588,31-10-2023,Basketball,Australia,Warriors,Kylian Mbappe,Miller-Johnson,Stadium A,11,57,2,62.69,43252,205062.47,300538.26,4669980,18,8,Fit,2025,490.21
+MATCH1589,29-04-2023,Cricket,India,CSK,Stephen Curry,"Wolf, Rodriguez and Gonzales",Sports Complex,24,83,5,95.71,76994,1327550.52,271555.14,4957522,42,1,Recovering,2023,413.73
+MATCH1590,30-06-2023,Cricket,Australia,England,Lionel Messi,Marshall Group,Sports Complex,43,199,49,66.66,99712,3731391.25,767052.05,4327535,81,20,Recovering,2025,111.02
+MATCH1591,29-11-2023,Tennis,Australia,WTA Tour,Rohit Sharma,Lucas and Sons,Sports Complex,41,192,25,32.45,35372,3651761.4,870637.61,2498634,62,2,Minor Injury,2023,235.1
+MATCH1592,06-08-2024,Cricket,Argentina,Australia,Virat Kohli,"Martin, Brown and Morris",National Ground,2,79,10,90.82,56668,3439960.46,379756.79,2417905,10,13,Fit,2024,455.47
+MATCH1593,11-01-2025,Tennis,Spain,ATP Tour,Virat Kohli,"Brown, Ferguson and Anderson",Stadium A,39,25,24,50.72,19422,4134545.62,1528074.28,743836,17,7,Fit,2024,79.89
+MATCH1594,22-03-2025,Olympics,India,Team USA,Cristiano Ronaldo,Morgan and Sons,Sports Complex,48,86,45,26.8,23249,2407322.9,1127888.21,7464556,21,9,Minor Injury,2024,85.71
+MATCH1595,09-12-2024,Football,Australia,Bayern Munich,Kylian Mbappe,Berger-Burke,Stadium A,2,11,6,63.57,18443,2562596.66,1673784.35,2389596,1,7,Fit,2023,219.3
+MATCH1596,02-11-2024,Cricket,Australia,England,Rohit Sharma,"Holland, Maxwell and Thompson",Olympic Park,44,183,7,59.35,19435,1130367.06,1913150.64,4738058,46,2,Recovering,2024,67.99
+MATCH1597,11-09-2024,Football,Brazil,Real Madrid,Virat Kohli,Shaw Inc,Olympic Park,34,85,38,34.51,60737,759597.98,1336210.4,5069400,80,9,Minor Injury,2023,142.84
+MATCH1598,29-09-2023,Tennis,USA,Grand Slam,Lionel Messi,"White, Bowen and Gibson",Arena B,50,167,9,45.62,56196,2239010.01,1594717.22,8036757,9,3,Recovering,2024,480.2
+MATCH1599,03-04-2023,Basketball,Germany,Warriors,Virat Kohli,Robinson Group,Arena B,50,98,22,45.55,60552,2411629.86,1945833.49,5604616,18,20,Fit,2024,215.14
+MATCH1600,29-06-2024,Tennis,Spain,Davis Cup,Rohit Sharma,Nunez Inc,Olympic Park,6,148,45,53.75,80743,3885196.86,1623527.71,3689813,90,2,Fit,2024,11.4
+MATCH1601,25-07-2024,Football,Argentina,Manchester City,Virat Kohli,"Miller, Huff and Knight",Stadium A,4,89,23,87.9,23264,1480539.47,292559.78,9262641,54,7,Fit,2023,37.37
+MATCH1602,13-12-2024,Cricket,Brazil,India,Novak Djokovic,Kelly Ltd,Stadium A,45,108,23,24.33,18894,3317109.13,152171.74,9974418,21,0,Fit,2024,79.23
+MATCH1603,13-01-2023,Cricket,Japan,India,Novak Djokovic,"Meyer, Powell and Allen",Arena B,49,46,30,79.48,74133,3495833.99,602517.85,6914201,93,10,Minor Injury,2025,350.67
+MATCH1604,09-06-2023,Basketball,India,Lakers,Lionel Messi,Short PLC,Sports Complex,49,44,32,32.83,56955,4165073.67,1361407.57,7631830,71,8,Recovering,2025,159.96
+MATCH1605,10-06-2023,Cricket,Australia,Pakistan,Cristiano Ronaldo,Harris and Sons,Sports Complex,25,32,47,36.95,86139,289424.14,787620.46,9393401,78,2,Recovering,2024,243.93
+MATCH1606,18-06-2023,Tennis,India,Davis Cup,Stephen Curry,Bowman-Allen,Olympic Park,13,69,6,28.35,52540,3019918.93,1693985.5,480581,31,9,Fit,2025,62.17
+MATCH1607,12-01-2023,Cricket,Australia,CSK,Rohit Sharma,Raymond-Roberts,Sports Complex,13,163,2,39.23,16146,4883549.1,1131769.64,9467976,62,1,Fit,2024,55.67
+MATCH1608,01-01-2024,Basketball,Australia,Lakers,Novak Djokovic,"Thompson, Williams and Schneider",Sports Complex,13,80,48,51.25,51640,4869515.21,1406800.34,1643762,43,13,Recovering,2025,59.49
+MATCH1609,24-08-2024,Cricket,France,India,Rafael Nadal,Reed Ltd,Sports Complex,3,74,10,32.12,65700,402976.77,1253775.68,3895101,28,20,Fit,2025,88.91
+MATCH1610,03-04-2024,Olympics,Brazil,China Olympic Team,Stephen Curry,Ramirez-Hanson,National Ground,24,159,27,23.2,98423,3873133.25,778330.37,3513428,79,19,Fit,2023,287.78
+MATCH1611,04-04-2025,Tennis,India,ATP Tour,Virat Kohli,Martin-Flores,National Ground,36,200,5,59.91,64612,1575456.31,1868441.66,2719058,9,8,Recovering,2024,183.15
+MATCH1612,28-12-2024,Football,Argentina,Barcelona,LeBron James,Leonard-Johnson,Olympic Park,17,195,28,72.02,23408,4699749.05,1943502.89,8201626,6,11,Minor Injury,2024,210.43
+MATCH1613,27-03-2024,Olympics,Germany,India Olympic Team,Kylian Mbappe,Mckenzie-Jackson,Sports Complex,21,95,5,74.58,71314,2255960.44,1755430.2,725977,80,20,Fit,2025,397.39
+MATCH1614,08-06-2023,Olympics,USA,Team USA,LeBron James,Green-Ortiz,Olympic Park,11,145,25,88.31,34235,1947232.76,927245.75,1578722,45,14,Minor Injury,2025,272.21
+MATCH1615,29-03-2023,Tennis,Brazil,ATP Tour,Cristiano Ronaldo,York-Bryant,Olympic Park,50,110,12,52.12,13450,1593251.46,1992894.27,8168676,28,15,Fit,2024,232.74
+MATCH1616,26-04-2024,Olympics,Brazil,India Olympic Team,Rohit Sharma,Kelley LLC,National Ground,37,8,38,81.94,13178,4682933.74,726178.05,7226043,61,6,Fit,2023,435.33
+MATCH1617,16-09-2023,Tennis,Brazil,Grand Slam,Cristiano Ronaldo,"Freeman, Davis and Lopez",Arena B,5,70,25,26.54,98350,2262590.45,842345.11,3602084,86,8,Fit,2023,55.3
+MATCH1618,10-02-2025,Tennis,Australia,Grand Slam,Virat Kohli,Warner Group,Arena B,23,107,30,58.04,95286,3921448.38,1931351.72,7338019,46,18,Minor Injury,2023,284.85
+MATCH1619,21-03-2023,Olympics,Japan,India Olympic Team,Erling Haaland,"Moreno, Jones and Villarreal",Arena B,21,170,46,79.43,46486,80792.02,1793519.72,2484414,64,10,Fit,2025,209.13
+MATCH1620,06-04-2024,Olympics,Brazil,Team USA,Rafael Nadal,"Gonzalez, Little and Cardenas",Sports Complex,7,9,13,79.66,29596,2106678.78,1094442.02,2796712,77,12,Fit,2024,112.78
+MATCH1621,15-01-2023,Cricket,Germany,CSK,Stephen Curry,Walker-Mcdonald,Stadium A,20,78,32,85.52,21350,3499592.56,1299578.8,7660368,53,13,Minor Injury,2024,415.81
+MATCH1622,27-04-2023,Tennis,Brazil,Grand Slam,Rafael Nadal,"Barnes, Aguilar and White",Olympic Park,24,45,35,67.59,76141,2185022.06,573630.73,7349925,82,9,Recovering,2025,469.57
+MATCH1623,05-04-2025,Football,USA,Real Madrid,Cristiano Ronaldo,"Brown, Watson and Bradley",Stadium A,40,105,6,59.71,86766,4636872.26,203905.63,7460817,65,18,Fit,2025,152.05
+MATCH1624,17-08-2023,Tennis,Argentina,WTA Tour,Kylian Mbappe,Randall-Davis,Olympic Park,8,50,30,96.04,50955,4838404.35,1828488.49,6937895,83,12,Fit,2024,393.28
+MATCH1625,02-10-2023,Olympics,Australia,China Olympic Team,LeBron James,"Washington, Conner and Singleton",Olympic Park,44,61,0,92.01,59336,173046.31,57362.4,6291485,67,19,Minor Injury,2024,93.5
+MATCH1626,05-09-2023,Olympics,Spain,Japan Olympic Team,Novak Djokovic,Barnes Inc,Arena B,40,164,25,86.28,80740,2151221.2,1879086.47,6560021,94,5,Minor Injury,2024,263.47
+MATCH1627,12-04-2023,Tennis,Brazil,WTA Tour,Kylian Mbappe,Clark-Medina,Stadium A,41,147,50,51.36,87223,4584160.16,1675489.07,2678469,42,6,Fit,2023,22.56
+MATCH1628,06-06-2023,Football,India,Bayern Munich,Erling Haaland,"Hall, Tate and Jones",Sports Complex,6,146,24,22.02,22111,4917236.82,1270753.99,6018279,24,7,Recovering,2023,155.49
+MATCH1629,13-01-2025,Olympics,France,India Olympic Team,LeBron James,Spence-Baxter,Stadium A,18,21,9,70.2,88674,4924141.22,1734543.4,1871122,59,19,Fit,2023,79.5
+MATCH1630,06-04-2023,Basketball,USA,Warriors,Rafael Nadal,Jones-Taylor,National Ground,14,100,6,59.28,7877,2074588.19,975602,1290314,27,13,Minor Injury,2024,320.44
+MATCH1631,04-07-2023,Tennis,Australia,WTA Tour,Lionel Messi,Miller-Guerrero,Arena B,43,145,40,68.53,9122,594863.63,688906.85,5828065,62,19,Recovering,2025,12.46
+MATCH1632,05-05-2023,Olympics,England,China Olympic Team,Erling Haaland,"Combs, Walker and Lewis",Stadium A,35,5,33,60.94,24968,1089369.58,732956.83,3649947,4,10,Fit,2023,50.89
+MATCH1633,08-10-2023,Cricket,Argentina,England,Rohit Sharma,"Parks, Acosta and Smith",Stadium A,23,181,35,72.15,66216,3728520.34,994124.4,8610949,52,6,Minor Injury,2023,106.96
+MATCH1634,16-04-2023,Basketball,Japan,Bulls,Erling Haaland,"Wright, Gray and Cross",National Ground,11,52,46,59.03,63478,2124449.24,1495423.14,5357715,80,3,Recovering,2024,220.36
+MATCH1635,18-01-2024,Olympics,USA,China Olympic Team,Rafael Nadal,"Stone, Lopez and Dorsey",Arena B,3,130,16,66.95,43466,3023371.66,1755117.92,8910282,46,12,Fit,2023,98.15
+MATCH1636,20-03-2025,Basketball,Brazil,Bulls,Stephen Curry,"Carr, Smith and Holmes",Arena B,5,55,42,49.73,24010,3899777.62,248995.69,5355038,89,0,Recovering,2024,114.75
+MATCH1637,27-08-2023,Olympics,Spain,China Olympic Team,Cristiano Ronaldo,"Graham, Richardson and Franklin",Olympic Park,19,154,13,62.18,18489,2809183.92,1433949.92,1265341,74,20,Minor Injury,2025,380.54
+MATCH1638,22-07-2023,Basketball,England,Celtics,Lionel Messi,Miller-Chavez,Olympic Park,32,11,17,53.7,21265,2269397.68,1204854.21,9928205,50,7,Recovering,2023,149.67
+MATCH1639,17-04-2024,Olympics,Australia,Team USA,Virat Kohli,Herrera Inc,Olympic Park,3,136,33,23.13,89512,91198.74,942437.24,6973867,93,9,Minor Injury,2024,379.31
+MATCH1640,23-07-2024,Tennis,Germany,ATP Tour,Rafael Nadal,"Meyers, Harris and Haley",Sports Complex,4,100,19,75.72,64582,2471749.76,1283988.79,2046971,48,19,Fit,2023,119.77
+MATCH1641,18-04-2023,Football,Germany,Barcelona,Novak Djokovic,Collins and Sons,Arena B,11,22,12,77.93,53349,4082576.61,1077428.95,92902,89,1,Minor Injury,2023,64.29
+MATCH1642,28-09-2023,Basketball,Germany,Lakers,Erling Haaland,"Carroll, Banks and Lawrence",Olympic Park,18,178,10,93.99,81474,2308861.88,256945.97,2493052,97,18,Minor Injury,2025,228.92
+MATCH1643,24-06-2024,Football,England,Bayern Munich,Erling Haaland,Allen and Sons,Olympic Park,43,125,17,45.75,68269,1136894.29,531305.01,4979984,92,2,Minor Injury,2025,419.42
+MATCH1644,12-12-2024,Cricket,USA,Australia,Cristiano Ronaldo,Smith Inc,Olympic Park,4,54,0,73.64,66361,4094372.11,379895.27,1763801,44,6,Recovering,2025,261.82
+MATCH1645,26-12-2024,Basketball,Argentina,Celtics,Virat Kohli,"Choi, Johnson and Lee",Sports Complex,7,33,14,93.34,55538,4875572.77,1736378.28,8624497,26,12,Fit,2023,146.14
+MATCH1646,09-06-2025,Cricket,Japan,England,Cristiano Ronaldo,"Simmons, Rodriguez and Butler",Arena B,30,27,47,28.82,7174,4471549.29,378124.38,489597,61,16,Minor Injury,2024,140.13
+MATCH1647,29-12-2023,Olympics,France,Team USA,Rohit Sharma,"Calderon, Roberts and Ford",Arena B,26,128,27,60.63,11967,2212289.58,742712.45,834338,84,12,Recovering,2024,105.03
+MATCH1648,30-06-2023,Cricket,Japan,Pakistan,LeBron James,Bowen-Davis,Sports Complex,39,126,33,54.69,94281,258858.53,501643.77,1873660,29,3,Fit,2023,291.86
+MATCH1649,28-06-2024,Cricket,USA,India,LeBron James,Schaefer Inc,Arena B,40,179,45,52.36,56496,515508.32,1469179.12,4510772,64,6,Fit,2023,180.34
+MATCH1650,22-10-2023,Basketball,India,Nets,Cristiano Ronaldo,"Armstrong, Guzman and Hamilton",Arena B,33,179,39,58.14,45019,4264294.06,1377432.16,2866028,41,2,Fit,2023,172.76
+MATCH1651,14-01-2023,Tennis,Argentina,WTA Tour,Novak Djokovic,Edwards Group,National Ground,2,45,16,90.5,27377,3399222.68,1706913.89,9975752,46,15,Recovering,2023,249.27
+MATCH1652,23-04-2023,Cricket,India,Pakistan,Lionel Messi,Smith-Frazier,Sports Complex,44,74,14,62.02,26928,3777412.47,1551636.82,1687595,39,10,Minor Injury,2024,370.06
+MATCH1653,10-11-2024,Olympics,Argentina,China Olympic Team,LeBron James,"Mcdonald, Rogers and Moore",National Ground,30,3,22,44.09,48743,4457948.36,1550179.96,8136125,15,8,Recovering,2025,366.83
+MATCH1654,25-02-2024,Football,England,Barcelona,Virat Kohli,Walker-Curtis,National Ground,32,7,15,66.21,96200,4866720.04,722042.76,1507768,25,12,Recovering,2023,483.07
+MATCH1655,16-06-2025,Olympics,Spain,Japan Olympic Team,Virat Kohli,"Thompson, Townsend and Nelson",National Ground,44,89,21,51.28,59695,4726879.84,556113.03,3207278,6,18,Recovering,2025,178.2
+MATCH1656,19-03-2024,Olympics,Argentina,Team USA,Erling Haaland,King and Sons,National Ground,19,28,0,59.91,94853,744184.13,1363441.52,8787607,38,19,Recovering,2025,89.68
+MATCH1657,08-03-2023,Tennis,Australia,Grand Slam,Lionel Messi,"Ruiz, Hardin and Gallagher",Olympic Park,3,55,18,86.04,21178,275434.48,615113.89,7229619,46,0,Fit,2024,77.48
+MATCH1658,12-11-2024,Basketball,Spain,Nets,Virat Kohli,"Ross, Mendoza and Davis",Stadium A,46,69,9,99.67,30785,2165933.41,1836928.38,4888848,29,1,Minor Injury,2024,131.88
+MATCH1659,13-02-2024,Tennis,USA,Davis Cup,LeBron James,"Navarro, Johnson and Padilla",National Ground,39,79,11,65.11,93987,4380902.7,1609738.6,2344991,88,6,Minor Injury,2023,213.99
+MATCH1660,09-11-2023,Cricket,USA,England,LeBron James,Ortiz LLC,Sports Complex,41,118,34,34.67,62264,489251.07,1055509.94,5265638,65,11,Minor Injury,2024,219.56
+MATCH1661,17-04-2024,Tennis,India,Davis Cup,Kylian Mbappe,Johnson-Reeves,Stadium A,50,107,5,80.47,85636,4535175.43,1574331,9746194,66,11,Fit,2025,276.2
+MATCH1662,24-02-2023,Olympics,France,China Olympic Team,Virat Kohli,"Parker, Keller and Williams",Olympic Park,43,1,29,84.6,72896,2306501.56,113420.74,927592,35,20,Fit,2024,301.23
+MATCH1663,08-05-2024,Basketball,Germany,Nets,Lionel Messi,Smith-Bird,Stadium A,48,149,43,60.87,98972,274571.13,414103.58,2428467,72,15,Fit,2023,448.58
+MATCH1664,05-10-2024,Cricket,Australia,England,Lionel Messi,"Ferguson, Bruce and Diaz",Olympic Park,40,176,12,29.18,5004,773580.2,1760398.63,8731175,13,7,Fit,2023,242.13
+MATCH1665,05-02-2024,Olympics,India,Japan Olympic Team,Cristiano Ronaldo,Lozano-Baldwin,National Ground,26,123,11,85.62,76659,1308754.91,1227456.31,7377376,85,19,Fit,2024,81.66
+MATCH1666,26-05-2023,Football,England,Barcelona,Virat Kohli,Hooper LLC,Sports Complex,48,179,34,36.03,67975,1457280.58,1336733.38,9887817,64,11,Recovering,2024,201.68
+MATCH1667,02-03-2024,Football,France,PSG,Virat Kohli,Jenkins Ltd,Stadium A,19,117,7,65.14,6444,2906884.99,72996.67,7467126,6,11,Fit,2024,442.39
+MATCH1668,10-01-2023,Tennis,Brazil,Grand Slam,Stephen Curry,Wilson-Salas,Sports Complex,33,53,22,92.2,73820,1959215.39,130217.71,2550116,46,20,Recovering,2025,176.25
+MATCH1669,14-03-2025,Cricket,Australia,England,Novak Djokovic,"Ray, Henderson and York",Stadium A,42,123,24,97,84408,3298269.33,1154197.71,8515716,100,16,Minor Injury,2023,351.91
+MATCH1670,21-08-2024,Olympics,Japan,China Olympic Team,Novak Djokovic,Vincent-Harvey,Stadium A,3,7,46,32.73,17653,3329652.25,1001370.64,8002883,42,7,Recovering,2023,61.66
+MATCH1671,12-02-2025,Cricket,France,Pakistan,Cristiano Ronaldo,Gray-Hanson,Stadium A,40,64,7,22.99,14552,2213226.98,751772.62,504247,23,10,Fit,2025,230.26
+MATCH1672,23-07-2024,Cricket,England,CSK,Rohit Sharma,Chandler-Hendrix,National Ground,32,112,43,42.89,31370,3713347.99,870955.7,8877252,25,2,Recovering,2023,318.27
+MATCH1673,04-02-2023,Football,Brazil,Barcelona,Lionel Messi,Oneal-Rodriguez,National Ground,50,104,36,63.73,14432,1710149.45,1366310.61,8870962,64,6,Fit,2025,415.51
+MATCH1674,01-01-2024,Olympics,Japan,China Olympic Team,Kylian Mbappe,Green Group,Arena B,5,112,27,70.04,14288,2850070.59,258748.81,8687962,39,3,Fit,2024,122.98
+MATCH1675,24-01-2023,Olympics,England,China Olympic Team,LeBron James,Brock Group,National Ground,25,180,22,25.44,25691,4840892.94,154180.36,9662869,31,16,Recovering,2025,163
+MATCH1676,13-07-2024,Olympics,USA,Team USA,Erling Haaland,"Gilbert, Schneider and Thompson",Olympic Park,17,167,1,22.58,60234,1311796.71,672409.78,1006431,18,6,Recovering,2025,171.51
+MATCH1677,20-05-2024,Football,USA,Barcelona,Erling Haaland,Barton-Ramsey,Sports Complex,45,195,2,47.67,14275,4750039.84,1198304.52,1362134,71,15,Fit,2024,364.43
+MATCH1678,23-05-2024,Football,Spain,Real Madrid,Rohit Sharma,Rocha-Hodge,National Ground,28,122,19,82.52,34852,117001.88,115436.31,3301258,69,19,Minor Injury,2025,344.96
+MATCH1679,08-05-2024,Football,India,Bayern Munich,Novak Djokovic,"Evans, Fleming and Conner",Olympic Park,45,32,27,76.11,77029,697474.45,878715.94,6179127,46,6,Minor Injury,2024,459.85
+MATCH1680,05-04-2023,Cricket,Japan,Australia,Lionel Messi,"Ibarra, Harper and Carter",Arena B,27,191,48,91.07,75283,2844562.57,1981922.78,259956,93,7,Fit,2023,37.76
+MATCH1681,17-10-2023,Tennis,India,WTA Tour,Stephen Curry,"Cabrera, Fuentes and Davies",National Ground,39,167,15,99.85,22002,3034557.99,960009.22,2063134,85,2,Fit,2024,469.8
+MATCH1682,23-12-2024,Cricket,Germany,Pakistan,Rohit Sharma,Thompson-Valdez,Olympic Park,46,77,23,82.42,43362,4346165.01,492190.55,4498496,41,17,Recovering,2023,36.46
+MATCH1683,14-10-2023,Tennis,USA,Davis Cup,Rohit Sharma,Moore Ltd,Arena B,34,59,19,79.35,32625,622512.77,1451196.96,2391714,5,7,Recovering,2024,328.45
+MATCH1684,22-01-2023,Tennis,Argentina,ATP Tour,Lionel Messi,"Ball, Johnson and Brooks",National Ground,18,150,24,44.03,16074,308003.01,1709875.6,6451381,64,0,Minor Injury,2024,227.57
+MATCH1685,24-01-2024,Cricket,Brazil,Australia,Novak Djokovic,Campbell and Sons,Sports Complex,4,169,19,22.5,50587,4686747.21,1820557.74,5650806,34,18,Fit,2023,177.06
+MATCH1686,05-06-2025,Olympics,France,Japan Olympic Team,Lionel Messi,Lloyd LLC,Stadium A,36,99,46,94.6,42672,4293985.32,1876262.27,7786282,55,18,Recovering,2025,386.82
+MATCH1687,26-01-2024,Basketball,Argentina,Warriors,Rohit Sharma,"Mccarthy, Thornton and Nelson",Arena B,1,71,43,96.08,16211,4994042.39,1543821.71,4973118,44,18,Minor Injury,2023,311.62
+MATCH1688,06-11-2024,Basketball,Australia,Celtics,Erling Haaland,"Vazquez, Barber and Stevens",Stadium A,8,78,36,72.86,39670,4239487.41,890398.33,299686,57,0,Minor Injury,2023,483.28
+MATCH1689,23-02-2024,Tennis,India,WTA Tour,Erling Haaland,Mitchell LLC,Stadium A,18,156,35,45.12,13394,2207793.19,519723.88,4642933,34,15,Fit,2023,318.87
+MATCH1690,02-11-2024,Cricket,India,CSK,Rohit Sharma,Duarte-Khan,Stadium A,42,9,11,74.76,62712,2903654.67,88701.4,3834407,8,8,Minor Injury,2023,342.41
+MATCH1691,05-01-2025,Basketball,India,Nets,Erling Haaland,Morris-Ross,Arena B,23,27,4,60.56,19835,2560067.23,477772.53,5475833,74,11,Recovering,2024,44.98
+MATCH1692,27-05-2023,Tennis,India,Grand Slam,Stephen Curry,White-Taylor,Sports Complex,24,85,26,91.79,54114,2358718.32,1947134.89,532734,21,11,Fit,2024,465.85
+MATCH1693,19-04-2023,Olympics,Japan,Team USA,Rohit Sharma,Mahoney-Fisher,National Ground,33,183,49,79.36,81216,3567072.79,1880179.97,6365875,75,1,Recovering,2025,83.54
+MATCH1694,18-08-2023,Football,Japan,Real Madrid,Kylian Mbappe,Brandt-Liu,Sports Complex,41,140,46,53.45,20891,4239499.45,1057874.02,872877,78,15,Recovering,2025,264.96
+MATCH1695,19-07-2023,Basketball,Japan,Celtics,LeBron James,Hensley-Ferguson,Arena B,22,62,49,98.2,35263,2284547.66,1497635.62,1946374,89,7,Minor Injury,2025,479.23
+MATCH1696,23-03-2023,Tennis,Germany,Grand Slam,Kylian Mbappe,Black-Adams,Sports Complex,5,92,41,58.73,35192,2250350.43,840606.21,9561977,17,17,Fit,2024,340.31
+MATCH1697,24-09-2023,Cricket,Australia,CSK,Stephen Curry,Gonzalez Inc,National Ground,8,20,26,53.68,24450,2884298.64,1267096.38,3333637,24,14,Fit,2023,69.19
+MATCH1698,29-12-2024,Basketball,Argentina,Nets,Cristiano Ronaldo,"Phillips, Ferguson and Decker",Arena B,3,110,1,75.2,14570,670565,1734425.58,6521474,55,11,Fit,2024,351.5
+MATCH1699,02-05-2023,Cricket,Germany,England,Stephen Curry,"Barr, Cross and Werner",Sports Complex,39,157,6,99.53,10929,378025.19,1841843.8,7541214,53,20,Minor Injury,2025,419.05
+MATCH1700,17-12-2024,Basketball,Brazil,Bulls,Virat Kohli,Silva and Sons,Sports Complex,33,21,9,91.65,82798,2969310.9,1349444.65,7618923,49,10,Minor Injury,2023,259.25
